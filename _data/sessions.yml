@@ -217,3 +217,11 @@ Trong thời gian vừa qua, tôi có cơ hội được thực hiện pentest m
   speakers: [14]
   language: "VI"
   complexity: "Khó"
+-
+  id: 722
+  title: "Thảo luận mở"
+  description: "Thảo luận mở về những vấn đề, sự kiện trong lãnh vực An Toàn Thông Tin, đặt câu hỏi cho các diễn giả. <br>Host: g4mm4"
+  subtype: panel
+  speakers: [1,17,14,3]
+  language: "VI"
+  complexity: "Trung bình"
