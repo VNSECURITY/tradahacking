@@ -170,3 +170,50 @@ Trong thời gian vừa qua, tôi có cơ hội được thực hiện pentest m
   speakers: []
   language: "VI"
   complexity: "Khó"
+-
+  id: 716
+  title: "Am I Under Attack?"
+  description: "Bài tham luận của tôi sẽ trình bày các vấn đề xung quanh threat hunting với các nội dung chính sau:\n
+ Giới thiệu về threat hunting, các khó khăn gặp phải, phân tích nguyên nhân thất bại trong việc phản hồi khi sự cố xảy ra. Đưa ra phương pháp tiếp cận theo hướng chủ động để phản hồi sự cố.\n
+ Sử dụng góc nhìn của kẻ xâm nhập kết hợp với các kỹ thuật forensics để trình bày phương pháp phát hiện sớm các hoạt động bất thường và săn tìm các mối đe dọa bên trong hệ thống công nghệ thông tin.\n
+ Thực hành tìm kiếm các activity, các dấu hiệu hiện diện của kẻ tấn công thông qua việc phân tích dữ liệu của Registry, Memory, Network traffic, Log files..."
+  subtype: party
+  speakers: []
+  language: "VI"
+  complexity: "Khó"
+-
+  id: 717
+  title: "Smart Contract Security"
+  description: "tba"
+  subtype: party
+  speakers: []
+  language: "VI"
+  complexity: "Khó"
+-
+  id: 718
+  title: "Dynamic analysis for Ethereum smart contracts"
+  description: "Dr.Nguyen Anh Quynh is a regular speaker at various industrial conferences such as Blackhat USA/Europe/Asia, Defcon, Recon, Syscan, HackInTheBox, Hack.lu, Deepsec, XCon, Confidence, Hitcon, Zeronights, Opcde, Tensec, Brucon, Tetcon, etc.\n
+  He also presented his researches in academic venues such as Usenix, IEEE, ACM, LNCS. As a passionate coder, Dr. Nguyen is the founder and maintainer of several open source reversing frameworks: Capstone (http://capstone-engine.org), Unicorn (http://unicorn-engine.org) & Keystone (http://keystone-engine.org)."
+  subtype: party
+  speakers: [3]
+  language: "VI"
+  complexity: "Khó"
+-
+  id: 719
+  title: "Chọc Lỗ Lên Đỉnh"
+  description: "Tác giả sẽ trình bày về những kinh nghiệm của mình trong việc tìm lỗ nói chung cụ thể hơn là trong project mruby được sử dụng bởi shopify."
+  subtype: party
+  speakers: [17]
+  language: "VI"
+  complexity: "Khó"
+-
+  id: 720
+  title: "How old man build a Mal-Lab for basic Static & Dynamic Analysis"
+  description: "Trong quá trình làm việc và tham gia đào tạo, tôi có cơ hội được tiếp xúc với khá nhiều bạn trẻ. Một trong những câu hỏi tôi hay gặp là: "Làm thế nào để xây dựng môi trường lab phục vụ cho việc học RE và phân tích malware?".\n
+  Bình thường tôi hay trả lời là: "Hỏi cụ Google đi em, nhiều lám!". Nhân trà đá hacking #7 và cũng vì được tin một người anh già với câu nói bất hủ: "Tôi thấy công cụ này chưa ổn nên tôi tự viết cái khác" cũng đã gửi bài, nên tôi cũng mạnh dạn "bóp cò" ...\n
+  Topic của tôi nhằm cung cấp cho những bạn mới bắt đầu cái nhìn tổng quan về việc xây dựng một môi trường lab an toàn thông qua các hệ thống/công cụ có sẵn để phục vụ cho nhiều mục đích như công việc hàng ngày, học tập & nghiên cứu; Dựa trên môi trường lab xây dựng được, tôi sẽ trình bày các kiến thức cơ bản liên quan đến việc phân tích malware, thuật ngữ chuyên môn được các chuyên gia trên thế giới hay gọi là Basic Static & Dynamic Analysis.\n
+  Basic Static có nghĩa là phân tích malware mà không cần thực thi, không cần đọc code, còn Basic Dynamic có nghĩa là thực thi malware trong môi trường đã cách ly và từ đó phân tích hành vi của chúng. Bài trình bày của tôi nói ra thì ai cũng biết, có chăng chỉ là không có bạn nào chịu cầm mic mà thôi..."
+  subtype: party
+  speakers: [14]
+  language: "VI"
+  complexity: "Khó"
