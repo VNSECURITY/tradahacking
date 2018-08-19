@@ -209,7 +209,7 @@ Trong thời gian vừa qua, tôi có cơ hội được thực hiện pentest m
 -
   id: 720
   title: "How old man build a Mal-Lab for basic Static & Dynamic Analysis"
-  description: "Trong quá trình làm việc và tham gia đào tạo, tôi có cơ hội được tiếp xúc với khá nhiều bạn trẻ. Một trong những câu hỏi tôi hay gặp là: "Làm thế nào để xây dựng môi trường lab phục vụ cho việc học RE và phân tích malware?".\n
+  description: "Trong quá trình làm việc và tham gia đào tạo, tôi có cơ hội được tiếp xúc với khá nhiều bạn trẻ. Một trong những câu hỏi tôi hay gặp là: \"Làm thế nào để xây dựng môi trường lab phục vụ cho việc học RE và phân tích malware?\".\n
   Bình thường tôi hay trả lời là: "Hỏi cụ Google đi em, nhiều lám!". Nhân trà đá hacking #7 và cũng vì được tin một người anh già với câu nói bất hủ: "Tôi thấy công cụ này chưa ổn nên tôi tự viết cái khác" cũng đã gửi bài, nên tôi cũng mạnh dạn "bóp cò" ...\n
   Topic của tôi nhằm cung cấp cho những bạn mới bắt đầu cái nhìn tổng quan về việc xây dựng một môi trường lab an toàn thông qua các hệ thống/công cụ có sẵn để phục vụ cho nhiều mục đích như công việc hàng ngày, học tập & nghiên cứu; Dựa trên môi trường lab xây dựng được, tôi sẽ trình bày các kiến thức cơ bản liên quan đến việc phân tích malware, thuật ngữ chuyên môn được các chuyên gia trên thế giới hay gọi là Basic Static & Dynamic Analysis.\n
   Basic Static có nghĩa là phân tích malware mà không cần thực thi, không cần đọc code, còn Basic Dynamic có nghĩa là thực thi malware trong môi trường đã cách ly và từ đó phân tích hành vi của chúng. Bài trình bày của tôi nói ra thì ai cũng biết, có chăng chỉ là không có bạn nào chịu cầm mic mà thôi..."
