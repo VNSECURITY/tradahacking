@@ -154,3 +154,19 @@ Trong thời gian vừa qua, tôi có cơ hội được thực hiện pentest m
   speakers: []
   language: "VI"
   complexity: "Khó"
+-
+  id: 714
+  title: "Practical [Sub]domain Takeover"
+  description: "Tôi sẽ trình bày kinh nghiệm cá nhân tôi khi đi quét vôi các subdomains của các hãng lớn. Nhiều hãng trong đó là các công ty bảo mật nổi tiếng"
+  subtype: party
+  speakers: [1]
+  language: "VI"
+  complexity: "Khó"
+-
+  id: 715
+  title: "When Java Deserialization meets EL Injection"
+  description: "Bài nói dựa trên việc khai thác thực tế các CVE từ cũ đến mới (2013-2015-2018) của thư viện Jboss Richfaces sử dụng trong Java Server Faces. Bài sẽ không đi kỹ vào phân tích lỗi mà xoáy sâu vào việc khai thác thực tiễn lỗ hổng EL injection trong Java nói chung và khi đi cùng Deserialization nói riêng. Cụ thể, xoay quanh nguyên lý hoạt động của Java deserialize, Java EL, môi trường JSF và một số trường hợp rào cản thực tế đã gặp được khi khai thác cùng cách bypass. Tác giả đã khai thác các bug này để RCE một số trang lớn như của bankofamerica, blackberry, ebanking một ngân hàng Việt Nam, một số sản phẩm của comodo, forcepoint và kiếm được (tạm thời) $5k."
+  subtype: party
+  speakers: []
+  language: "VI"
+  complexity: "Khó"
