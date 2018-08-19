@@ -10,6 +10,26 @@
         sessionIds: [000]
     }
     - {
+        startTime: "09:10",
+        endTime: "09:40",
+        sessionIds: [712]
+    }
+    - {
+        startTime: "09:45",
+        endTime: "10:15",
+        sessionIds: [713]
+    }
+    - {
+        startTime: "10:20",
+        endTime: "11:00",
+        sessionIds: [714]
+    }
+    - {
+        startTime: "11:10",
+        endTime: "11:50",
+        sessionIds: [715]
+    }
+    - {
         startTime: "12:00",
         endTime: "13:00",
         sessionIds: [711]
