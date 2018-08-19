@@ -137,3 +137,20 @@
   speakers: []
   language: "VI"
   complexity: "Khó"
+-
+  id: 712
+  title: "Một số kỹ thuật tấn công hệ thống Active Directory"
+  description: "Đối với các công ty, doanh nghiệp, hệ thống AD (Active Directory) là thành phần không thể thiếu, cung cấp các chức năng, dịch vụ trong hoạt động của doanh nghiệp. Đặc biệt là xác thực, quản lý định danh. Đây luôn là mục tiêu đầu tiên phải tấn công và đánh chiếm.
+Trong thời gian vừa qua, tôi có cơ hội được thực hiện pentest một số hệ thống AD các doanh nghiệp, đơn vị tại VN. Hầu hết các hệ thống này đều rất dễ bị tổn thương và chiếm quyền kiểm soát bằng các kỹ thuật cơ bản và phổ biến. Bài trình bày này giới thiệu lại một số kỹ thuật tôi đã sử dụng trong quá trình tấn công AD và một số vấn đề cần lưu ý mà người pentest có thể gặp phải."
+  subtype: party
+  speakers: []
+  language: "VI"
+  complexity: "Khó"
+-
+  id: 713
+  title: "Cross-communication security issues"
+  description: "Topic sẽ cover một số vấn đề bảo mật cơ bản về cross-communication trong ứng dụng web(server-side/client-side); Những lỗi thường gặp, cách phát hiện và khai thác."
+  subtype: party
+  speakers: []
+  language: "VI"
+  complexity: "Khó"
