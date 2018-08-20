@@ -143,7 +143,7 @@
   description: "Đối với các công ty, doanh nghiệp, hệ thống AD (Active Directory) là thành phần không thể thiếu, cung cấp các chức năng, dịch vụ trong hoạt động của doanh nghiệp. Đặc biệt là xác thực, quản lý định danh. Đây luôn là mục tiêu đầu tiên phải tấn công và đánh chiếm.
 Trong thời gian vừa qua, tôi có cơ hội được thực hiện pentest một số hệ thống AD các doanh nghiệp, đơn vị tại VN. Hầu hết các hệ thống này đều rất dễ bị tổn thương và chiếm quyền kiểm soát bằng các kỹ thuật cơ bản và phổ biến. Bài trình bày này giới thiệu lại một số kỹ thuật tôi đã sử dụng trong quá trình tấn công AD và một số vấn đề cần lưu ý mà người pentest có thể gặp phải."
   subtype: party
-  speakers: []
+  speakers: [70]
   language: "VI"
   complexity: "Khó"
 -
@@ -151,7 +151,7 @@ Trong thời gian vừa qua, tôi có cơ hội được thực hiện pentest m
   title: "Cross-communication security issues"
   description: "Topic sẽ cover một số vấn đề bảo mật cơ bản về cross-communication trong ứng dụng web(server-side/client-side); Những lỗi thường gặp, cách phát hiện và khai thác."
   subtype: party
-  speakers: []
+  speakers: [71]
   language: "VI"
   complexity: "Khó"
 -
@@ -167,7 +167,7 @@ Trong thời gian vừa qua, tôi có cơ hội được thực hiện pentest m
   title: "When Java Deserialization meets EL Injection"
   description: "Bài nói dựa trên việc khai thác thực tế các CVE từ cũ đến mới (2013-2015-2018) của thư viện Jboss Richfaces sử dụng trong Java Server Faces. Bài sẽ không đi kỹ vào phân tích lỗi mà xoáy sâu vào việc khai thác thực tiễn lỗ hổng EL injection trong Java nói chung và khi đi cùng Deserialization nói riêng. Cụ thể, xoay quanh nguyên lý hoạt động của Java deserialize, Java EL, môi trường JSF và một số trường hợp rào cản thực tế đã gặp được khi khai thác cùng cách bypass. Tác giả đã khai thác các bug này để RCE một số trang lớn như của bankofamerica, blackberry, ebanking một ngân hàng Việt Nam, một số sản phẩm của comodo, forcepoint và kiếm được (tạm thời) $5k."
   subtype: party
-  speakers: []
+  speakers: [72]
   language: "VI"
   complexity: "Khó"
 -
@@ -178,7 +178,7 @@ Trong thời gian vừa qua, tôi có cơ hội được thực hiện pentest m
  Sử dụng góc nhìn của kẻ xâm nhập kết hợp với các kỹ thuật forensics để trình bày phương pháp phát hiện sớm các hoạt động bất thường và săn tìm các mối đe dọa bên trong hệ thống công nghệ thông tin.\n
  Thực hành tìm kiếm các activity, các dấu hiệu hiện diện của kẻ tấn công thông qua việc phân tích dữ liệu của Registry, Memory, Network traffic, Log files..."
   subtype: party
-  speakers: []
+  speakers: [73]
   language: "VI"
   complexity: "Khó"
 -
