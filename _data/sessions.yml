@@ -157,7 +157,7 @@ Trong thời gian vừa qua, tôi có cơ hội được thực hiện pentest m
 -
   id: 714
   title: "Practical [Sub]domain Takeover"
-  description: "Tôi sẽ trình bày kinh nghiệm cá nhân tôi khi đi quét vôi các subdomains của các hãng lớn. Nhiều hãng trong đó là các công ty bảo mật nổi tiếng"
+  description: "Qua sẽ trình bày kinh nghiệm cá nhân cho các anh chị em nghe khi Qua đi quét vôi các subdomains của các hãng lớn. Nhiều hãng trong đó là các công ty bảo mật nổi tiếng"
   subtype: party
   speakers: [1]
   language: "VI"
