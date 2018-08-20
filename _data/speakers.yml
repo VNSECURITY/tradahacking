@@ -423,3 +423,51 @@ Là diễn giả của nhiều hội thảo như Tetcon, Tradahacking, Botconf..
   active: false
   social:
     - {name: "site", link: ""}
+-
+  id: 70
+  name: "Hà Văn Cường"
+  surname: ""
+  company: "FPT Infomation System"
+  title: ""
+  bio: "Thành viên nhóm nightst0rm"
+  thumbnailUrl: havancuong.png
+  rockstar: false
+  active: false
+  social:
+    - {name: "site", link: ""}
+-
+  id: 71
+  name: "Pham Van Dien"
+  surname: ""
+  company: "VSEC"
+  title: ""
+  bio: "cat/hacking/life lover"
+  thumbnailUrl: phanvandien.png
+  rockstar: false
+  active: false
+  social:
+    - {name: "site", link: ""}
+-
+  id: 72
+  name: "An Trịnh"
+  surname: ""
+  company: "Viettel"
+  title: ""
+  bio: "Pentester @ Viettel, tập tành blogger @ tint0.com"
+  thumbnailUrl: antrinh.png
+  rockstar: false
+  active: false
+  social:
+    - {name: "site", link: ""}
+-
+  id: 73
+  name: "Lê Công Phú"
+  surname: ""
+  company: "PWC"
+  title: ""
+  bio: "Tôi là kỹ sư bảo mật - Leader nhóm Nightst0rm"
+  thumbnailUrl: nguyenminhduc.png
+  rockstar: false
+  active: false
+  social:
+    - {name: "site", link: ""}
