@@ -192,8 +192,7 @@ Trong thời gian vừa qua, tôi có cơ hội được thực hiện pentest m
 -
   id: 718
   title: "Dynamic analysis for Ethereum smart contracts"
-  description: "Dr.Nguyen Anh Quynh is a regular speaker at various industrial conferences such as Blackhat USA/Europe/Asia, Defcon, Recon, Syscan, HackInTheBox, Hack.lu, Deepsec, XCon, Confidence, Hitcon, Zeronights, Opcde, Tensec, Brucon, Tetcon, etc.\n
-  He also presented his researches in academic venues such as Usenix, IEEE, ACM, LNCS. As a passionate coder, Dr. Nguyen is the founder and maintainer of several open source reversing frameworks: Capstone (http://capstone-engine.org), Unicorn (http://unicorn-engine.org) & Keystone (http://keystone-engine.org)."
+  description: "By introducing the concept of storing & executing program on blockchain, smart contract becomes vital for the Fintech revolution. Unfortunately, like legacy code, smart contract can be ridden with vulnerabilities, that may cause immediate negative impact in term of economy. This talk presents some of our latest works that aim to lay foundation for dynamic analysis on Ethereum blockchain, so you can build new security tools on this platform."
   subtype: party
   speakers: [3]
   language: "VI"
