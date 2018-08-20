@@ -52,7 +52,7 @@
   surname: ""
   company: "VNSecurity"
   title: "Researcher + coder"
-  bio: "Dr.Nguyen Anh Quynh is a regular speaker at various industrial conferences such as Blackhat USA/Europe/Asia, DEFCON, Recon, Eusecwest, Syscan, HackInTheBox, Hack.lu, Deepsec, XCon, Confidence, Hitcon, Tetcon, TenSec, Opcde, Brucon, H2HC, Zeronights, etc. He also presented his researches in academic venues such as Usenix, IEEE, ACM, LNCS. As a passionate coder, Dr. Nguyen is the founder and maintainer of several open source reversing frameworks: Capstone (http://capstone-engine.org), Unicorn (http://unicorn-engine.org) & Keystone (http://keystone-engine.org)."
+  bio: "Dr.Nguyen Anh Quynh is a regular speaker at various industrial conferences such as Blackhat USA/Europe/Asia, DEFCON, Recon, Eusecwest, Syscan, HackInTheBox, Hack.lu, Deepsec, XCon, Confidence, Hitcon, Tetcon, TenSec, Opcde, Brucon, H2HC, Zeronights, Shakacon, etc. He also presented his researches in academic venues such as Usenix, IEEE, ACM, LNCS. As a passionate coder, Dr. Nguyen is the founder and maintainer of several open source reversing frameworks: Capstone (http://capstone-engine.org), Unicorn (http://unicorn-engine.org) & Keystone (http://keystone-engine.org)."
   thumbnailUrl: aquynh.png
   rockstar: true
   active: true
