@@ -507,3 +507,15 @@ Là diễn giả của nhiều hội thảo như Tetcon, Tradahacking, Botconf..
   active: false
   social:
     - {name: "site", link: ""}
+-
+  id: 77
+  name: "VnSecurity"
+  surname: ""
+  company: ""
+  title: "VnSecurity"
+  bio: ""
+  thumbnailUrl: vnsecurity.png
+  rockstar: false
+  active: false
+  social:
+    - {name: "site", link: ""}
