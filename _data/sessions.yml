@@ -221,6 +221,14 @@ Trong thời gian vừa qua, tôi có cơ hội được thực hiện pentest m
   title: "Thảo luận mở"
   description: "Thảo luận mở về những vấn đề, sự kiện trong lãnh vực An Toàn Thông Tin, đặt câu hỏi cho các diễn giả. <br>Host: g4mm4"
   subtype: panel
-  speakers: [0,1,7,17,14,3,70,71,72,73]
+  speakers: [0,7,1,17,14,3,70,71,72,73]
+  language: "VI"
+  complexity: "Trung bình"
+-
+  id: 723
+  title: "Giới thiệu Trà Đá Hacking7 & Diễn Văn Khai Mạc"
+  description: ""
+  subtype: panel
+  speakers: [77,76]
   language: "VI"
   complexity: "Trung bình"
