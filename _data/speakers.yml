@@ -495,3 +495,15 @@ Là diễn giả của nhiều hội thảo như Tetcon, Tradahacking, Botconf..
   active: false
   social:
     - {name: "site", link: ""}
+-
+  id: 76
+  name: "FPT Information System"
+  surname: ""
+  company: ""
+  title: "FPT Information System"
+  bio: ""
+  thumbnailUrl: fptfis.png
+  rockstar: false
+  active: false
+  social:
+    - {name: "site", link: ""}
