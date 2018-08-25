@@ -519,3 +519,15 @@ Là diễn giả của nhiều hội thảo như Tetcon, Tradahacking, Botconf..
   active: false
   social:
     - {name: "site", link: ""}
+-
+  id: 78
+  name: "Huyna"
+  surname: ""
+  company: "Viettel"
+  title: ""
+  bio: "Coder @ VCS, Outdated pwner @ PiggyBird, Duplicator @ ZDI"
+  thumbnailUrl: huyna.png
+  rockstar: false
+  active: false
+  social:
+    - {name: "site", link: ""}
