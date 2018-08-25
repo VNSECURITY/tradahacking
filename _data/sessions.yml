@@ -236,7 +236,7 @@ Trong thời gian vừa qua, tôi có cơ hội được thực hiện pentest m
   id: 724
   title: "Tìm lỗi VirtualBox bằng code review"
   description: "Bài nói trình bày về 1 hướng tiếp cận bằng phương pháp code review để tìm lỗ hổng trong VirtualBox. Từ việc quan sát bản vá cho đến xác định attack surface, xây dựng proof-of-concept và cuối cùng là dựng 1 testcase generator cơ bản để tìm tất cả các lỗi có pattern tương tự"
-  subtype: panel
+  subtype: presentation
   speakers: [78]
   language: "VI"
   complexity: "Khó"
