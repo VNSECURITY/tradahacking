@@ -1,5 +1,6 @@
 # Plugins 
-gems:
+#gems:
+plugins:
 - jekyll-sitemap
 
 safe: false
@@ -64,14 +65,14 @@ rightNavigationButtons:
  - {link: *c4tUrl, text: "Trở thành giảng viên"}
 
 # Hero Block
-heroImage: "trada7-final.png"
+heroImage: "trada.jpg"
 heroTitle: ""
 eventDate: ""
 typeoutTextValues: '" ", ""'
 typeoutFallback: ""
 heroButtons:
  - {link: *c4pUrl, text: "Trở thành diễn giả"}
- - {permalink: "https://ticketbox.vn/event/tra-da-hacking-7-72721/49422", text: "Đăng ký"}
+ - {permalink: "TBD", text: "Đăng ký"}
  - {link: *c4tUrl, text: "Trở thành giảng viên"}
 
 # About Block
@@ -106,30 +107,30 @@ rockstarTrainersButtonText: "Xem tất cả các giảng viên"
 
 # Location Block
 locationBlockTitle: "Địa điểm"
-eventLocationName: "Toà nhà FPT Tân Thuận, HCMC"
+eventLocationName: "TBD"
 eventLocationLink: "http://www.vnsecurity.net/"
-eventStreetAddress: "Lô L29B-31B—33B, đường số 8, KCX Tân Thuận, P. Tân Thuận Đông"
-eventAddressLocality: "Quận 7"
-eventAddressLocalityRegion: "HCMC"
+eventStreetAddress: "TBD"
+eventAddressLocality: "TBD"
+eventAddressLocalityRegion: "Hanoi"
 eventPostalCode: "700000"
 eventAddressCountry: "Việt nam"
-eventStartTime: "Aug 26, 2018 08:30 GMT+7"
+eventStartTime: "Sep 6, 2019 08:30 GMT+7"
 eventDoorTime: "08:00"
-eventEndTime: "Aug 26, 2018 18:00 GMT+7"
-eventPlaceCoordinates: "10.760682,106.7356331"
-mapCenterCoordinates: "10.760682,106.7356331"
-mapMobileCenterCoordinates: "10.760682,106.7356331"
+eventEndTime: "Sep 6, 2019 18:00 GMT+7"
+eventPlaceCoordinates: ""
+mapCenterCoordinates: ""
+mapMobileCenterCoordinates: ""
 
 # Venue Block
 venueBlockTitle: "Nơi tổ chức"
 venueBigImage: "venue_2.jpg"
 venueSmallImage1: "venue_3.jpg"
-venueTitle: "Ho Chi Minh"
+venueTitle: "Hanoi"
 venueFeatures: [""]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "TraDaHacking#7?"
+tweetsFeedTitle: "TraDaHacking#8?"
 twitterHashTag: "tradahacking"
 twitterFeed: "http://"
 
@@ -154,11 +155,11 @@ ticketsOffers:
   priceCurrency: "VND"
   ticketsNumber: "200"
   ribbon: "-66.6%"
-  buyButtonLink: "https://ticketbox.vn/event/72721/ticket-booking/49422#/step-select-tickets"
+  buyButtonLink: "https://ticketbox.vn/event/xxxxx/ticket-booking/49422#/step-select-tickets"
   buyButtonText: "Mua ngay"
   ticketContentList: [""]
-  validFrom: "Jul 17, 2018 12:00 GMT+7"
-  validThrough: "Aug 26, 2018 12:00 GMT+7"
+  validFrom: "Jul 17, 2019 12:00 GMT+7"
+  validThrough: "Sep 1, 2019 12:00 GMT+7"
  -
   name: "Vé thường"
   price: "499.000"
@@ -166,11 +167,11 @@ ticketsOffers:
   ticketsNumber: "150"
   ribbon: ""
   featured: true
-  buyButtonLink: "https://ticketbox.vn/event/72721/ticket-booking/49422#/step-select-tickets"
+  buyButtonLink: "https://ticketbox.vn/event/xxxx/ticket-booking/49422#/step-select-tickets"
   buyButtonText: "Mua ngay"
   ticketContentList: []
-  validFrom: "Aug 15, 2018 12:00 GMT+7"
-  validThrough: "Aug 26, 2018 13:30 GMT+7"
+  validFrom: "Sep 1, 2019 12:00 GMT+7"
+  validThrough: "Sep 5, 2019 13:30 GMT+7"
   disabled: true
 # Footer
 socialLinks:
