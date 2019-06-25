@@ -66,8 +66,8 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "trada.jpg"
-heroTitle: ""
-eventDate: ""
+heroTitle: "Tradahacking #8"
+eventDate: "06/09/2019"
 typeoutTextValues: '" ", ""'
 typeoutFallback: ""
 heroButtons:
