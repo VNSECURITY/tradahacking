@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trà Đá Hacking</title>
+    <description>Trà Đá Hacking</description>
+    <link>http://event.tradahacking.vn//archives/05/</link>
+    <atom:link href="http://event.tradahacking.vn//archives/05/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Hello World!</title>
+        <description>&lt;p&gt;Trà Đá Hacking đã sẵn sàng để ra mắt giới trà đạo!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 28 May 2016 12:00:00 +0000</pubDate>
+        <link>http://event.tradahacking.vn//archives/05/blog/hello-world</link>
+        <guid isPermaLink="true">http://event.tradahacking.vn//archives/05/blog/hello-world</guid>
+      </item>
+    
+  </channel>
+</rss>
