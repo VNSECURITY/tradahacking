@@ -1,4 +1,4 @@
 - 
   group: "Đơn vị đồng tổ chức"
   elements: 
-    - {name: "FPT", description: "", link: "https://fpt.vn", imageUrl: "fpt.png"}
+    - {name: "Call for sponsors", description: "", link: "mailto:trada@vnsecurity.net@Subject=Trada8-Sponsor", imageUrl: ""}

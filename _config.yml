@@ -65,10 +65,10 @@ rightNavigationButtons:
  - {link: *c4tUrl, text: "Trở thành giảng viên"}
 
 # Hero Block
-heroImage: "trada.jpg"
-heroTitle: ""
-eventDate: ""
-typeoutTextValues: '" ", ""'
+heroImage: "tradab04-bg.png"
+heroTitle: "Tradahacking #8"
+eventDate: "06/09/2019"
+typeoutTextValues: '"  06/09", "  Hanoi"'
 typeoutFallback: ""
 heroButtons:
  - {link: *c4pUrl, text: "Trở thành diễn giả"}

@@ -6,8 +6,8 @@
   title: "Lão đại"
   bio: "Thủ lĩnh tối cao của VNSEC & CLGT. Không riêng ở Việt Nam, anh còn là thành viên nòng cốt của nhiều nhóm hacker nổi tiếng thế giới. Không phải ngẫu nhiên mà tất cả các thành viên còn lại trong tổ chức đều bị anh khuất phục và thề suốt đời đi theo con đường anh đã chọn dù có phải hy sinh.."
   thumbnailUrl: rd.jpg
-  rockstar: true
-  active: true
+  rockstar: false
+  active: false
   social: 
     - {name: "twitter", link: "https://twitter.com/redragonvn"}
 -
@@ -18,7 +18,7 @@
   title: ""
   bio: "Call-For-Paper"
   thumbnailUrl: nopic.png
-  rockstar: false
+  rockstar: true
   active: true
   social:
     - {name: "site", link: ""}
@@ -30,8 +30,8 @@
   title: "Trùm thị phi"
   bio: "Một nhân vật giữ vai trò cầu nối của tất cả các băng nhóm blackhat hacker ở Việt Nam và trong khu vực. Bề ngoài phong lưu hoa nguyệt chỉ để che đậy những việc làm mờ ám và khuất tất mà hắn đã nhúng tay vào trong suốt mấy chục năm qua trên Internet."
   thumbnailUrl: g4mm4.jpg
-  rockstar: true
-  active: true
+  rockstar: false
+  active: false
   social:
     - {name: "twitter", link: "https://twitter.com/xchym"}
 -
@@ -42,7 +42,7 @@
   title: "Chuyên gia dịch ngược "
   bio: "“Đại ca” trong giới dịch ngược phần mềm / “hack game” tại Việt Nam và trong khu vực. Đã từ rất lâu rồi có rất nhiều đàn em manh nha muốn xé vé anh trong lĩnh vực này nhưng nhìn chung chưa ai thành công mà chỉ cúi đầu rút lui trong lặng lẽ."
   thumbnailUrl: superkhung.jpg
-  rockstar: true
+  rockstar: false
   active: false
   social:
     - {name: "site", link: "http://www.vnsecurity.net/"}
@@ -54,8 +54,8 @@
   title: "Researcher + coder"
   bio: "Dr.Nguyen Anh Quynh is a regular speaker at various industrial conferences such as Blackhat USA/Europe/Asia, DEFCON, Recon, Eusecwest, Syscan, HackInTheBox, Hack.lu, Deepsec, XCon, Confidence, Hitcon, Tetcon, TenSec, Opcde, Brucon, H2HC, Zeronights, Shakacon, etc. He also presented his researches in academic venues such as Usenix, IEEE, ACM, LNCS. As a passionate coder, Dr. Nguyen is the founder and maintainer of several open source reversing frameworks: Capstone (http://capstone-engine.org), Unicorn (http://unicorn-engine.org) & Keystone (http://keystone-engine.org)."
   thumbnailUrl: aquynh.png
-  rockstar: true
-  active: true
+  rockstar: false
+  active: false
   social:
     - {name: "site", link: "http://www.vnsecurity.net/"}
 -
@@ -102,7 +102,7 @@
   title: ""
   bio: "* Thái là cơ thủ khét tiếng bida dù, từng chấp Lý Thế Vinh 'xổ số'.<br>* Anh ấy là huyền đai đệ eleven đẳng Taekwondo, từng tập luyện và thi đấu chung với Trần Quang Hạ, Trần Hiếu Ngân và Phan Thị Bích Hằng.<br>* Lúc rảnh rỗi Thái đi trượt tuyết. Anh ấy đang tập luyện để đại diện Việt Nam thi Olympics mùa đông kỳ tới.<br>* Thái hiện đang làm việc ở Google. Anh ấy đã có những đóng góp to lớn vào sự thành công của Google, ví dụ như từ lúc anh ấy gia nhập đến nay cổ phiếu của công ty đã tăng gấp 3 lần."
   thumbnailUrl: thaidn.jpg
-  rockstar: true
+  rockstar: false
   active: false
   social:
     - {name: "site", link: ""}
@@ -179,7 +179,7 @@
   bio: "Thành viên team meepwn #noobfromSEA "
   thumbnailUrl: tadinhsung.jpg
   rockstar: false
-  active: true
+  active: false
   social:
     - {name: "site", link: ""}
 -
@@ -214,8 +214,8 @@
   title: "Trùm dò lỗ"
   bio: "Là cái tên đình đám xuất hiện nhiều lần trong bảng vinh danh đóng góp bảo mật nhiều hãng phần mềm lớn. Niềm vui của anh là dò tìm lỗ trong trình duyệt của người dùng. Thời gian còn lại hai anh tận dụng để sản xuất, tàng trữ, vận chuyển và buôn bán 0day. Từ khi biết đến Suto và ca0nguyen: chúng tôi chuyển hẳn qua đọc tin tức trên báo giấy thay vì duyệt web."
   thumbnailUrl: suto.jpg
-  rockstar: true
-  active: true
+  rockstar: false
+  active: false
   social:
     - {name: "twitter", link: "http://twitter.com/sutox"}
 -
@@ -227,7 +227,7 @@
   bio: "Sống nội tâm và yêu màu tím"
   thumbnailUrl: zx.jpg
   rockstar: false
-  active: true
+  active: false
   social:
     - {name: "twitter", link: "https://twitter.com/wiz1340"}
 -
@@ -251,7 +251,7 @@
   bio: ""
   thumbnailUrl: huando.jpg
   rockstar: false
-  active: true
+  active: false
   social:
     - {name: "site", link: ""}
 -
@@ -263,7 +263,7 @@
   bio: ""
   thumbnailUrl: tinduong.jpg
   rockstar: false
-  active: true
+  active: false
   social:
     - {name: "site", link: ""}
 -
@@ -275,7 +275,7 @@
   bio: "Công là người đam mê công nghệ, thích tìm hiểu nhiều khía cạnh khác nhau của khoa học máy tính như ngôn ngữ lập trình, bảo mật máy tính, đồ họa máy tính, nôm na là tất tần tật... Công đã từng làm việc trên cả 2 lĩnh vực bảo mật máy tính và lập trình phần mềm, game nên có cách nhìn tương đối khách quan về những lĩnh vực này."
   thumbnailUrl: tancong.jpg
   rockstar: false
-  active: true
+  active: false
   social:
     - {name: "site", link: ""}
 -
@@ -287,7 +287,7 @@
   bio: "Submit-flag-er at MeePwn Team, Security researcher/sadboi at tsublogs."
   thumbnailUrl: nguyennguyen.jpg
   rockstar: false
-  active: true
+  active: false
   social:
     - {name: "site", link: ""}
 -
@@ -299,7 +299,7 @@
   bio: ""
   thumbnailUrl: tranminhquang.png
   rockstar: false
-  active: true
+  active: false
   social:
     - {name: "site", link: ""}
 -
@@ -311,7 +311,7 @@
   bio: "Trùm sadboi"
   thumbnailUrl: nguyenthanhnguyen.png
   rockstar: false
-  active: true
+  active: false
   social:
     - {name: "site", link: ""}
 -
@@ -335,7 +335,7 @@
   bio: ""
   thumbnailUrl: nopic.png
   rockstar: false
-  active: true
+  active: false
   social:
     - {name: "site", link: ""}
 -
@@ -347,7 +347,7 @@
   bio: "Nhà ngoại cảm bảo mật tự phong"
   thumbnailUrl: hungnguyen.jpg
   rockstar: false
-  active: true
+  active: false
   social:
     - {name: "site", link: ""}
 -
@@ -359,7 +359,7 @@
   bio: ""
   thumbnailUrl: L.jpg
   rockstar: false
-  active: true
+  active: false
   social:
     - {name: "site", link: ""}
 -
@@ -372,7 +372,7 @@
 Là diễn giả của nhiều hội thảo như Tetcon, Tradahacking, Botconf..."
   thumbnailUrl: tranminhquang.png
   rockstar: false
-  active: true
+  active: false
   social:
     - {name: "site", link: ""}
 -
@@ -384,7 +384,7 @@ Là diễn giả của nhiều hội thảo như Tetcon, Tradahacking, Botconf..
   bio: ""
   thumbnailUrl: toantv.jpg
   rockstar: false
-  active: true
+  active: false
   social:
     - {name: "site", link: ""}
 -
@@ -396,7 +396,7 @@ Là diễn giả của nhiều hội thảo như Tetcon, Tradahacking, Botconf..
   bio: ""
   thumbnailUrl: lannguyen.jpg
   rockstar: false
-  active: true
+  active: false
   social:
     - {name: "site", link: ""}
 -
