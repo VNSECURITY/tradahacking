@@ -68,7 +68,7 @@ rightNavigationButtons:
 heroImage: "tradab04-bg.png"
 heroTitle: "Tradahacking #8"
 eventDate: "06/09/2019"
-typeoutTextValues: '"  06/09", "  Hanoi"'
+typeoutTextValues: '"  06 - 09 - 2019", "  Hanoi  "'
 typeoutFallback: ""
 heroButtons:
  - {link: *c4pUrl, text: "Trở thành diễn giả"}
