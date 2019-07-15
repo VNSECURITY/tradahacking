@@ -67,8 +67,8 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "trada8.png"
 heroTitle: "Tradahacking"
-eventDate: "06/09/2019"
-typeoutTextValues: '"  06 - 09 - 2019", "  Hanoi  "'
+eventDate: ""
+typeoutTextValues: '" .... ", "  ....  "'
 typeoutFallback: ""
 heroButtons:
  - {link: *c4pUrl, text: "Trở thành diễn giả"}
