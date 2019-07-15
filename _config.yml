@@ -47,7 +47,7 @@ socialImageSrcFacebook: "img/seo/trada7seo.png"
 
 # Documents
 c4pUrl: &c4pUrl "https://goo.gl/iq5VEq" #"https://goo.gl/aHu6rK" #goo.gl/3SkuEZ
-c4sponsorsUrl: "mailto:trada@vnsecurity.net?Subject=Tradahacking7-Sponsor"
+c4sponsorsUrl: "mailto:trada@vnsecurity.net?Subject=Tradahacking8-Sponsor"
 c4tUrl: &c4tUrl "https://goo.gl/xjnbqA"
 
 
@@ -65,7 +65,7 @@ rightNavigationButtons:
  - {link: *c4tUrl, text: "Trở thành giảng viên"}
 
 # Hero Block
-heroImage: "tradab04-bg.png"
+heroImage: "trada8.png"
 heroTitle: "Tradahacking"
 eventDate: "06/09/2019"
 typeoutTextValues: '"  06 - 09 - 2019", "  Hanoi  "'
