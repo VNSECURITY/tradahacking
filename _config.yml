@@ -68,11 +68,11 @@ rightNavigationButtons:
 heroImage: "trada8.png"
 heroTitle: "                    "
 eventDate: ""
-typeoutTextValues: '" .... ", "  ....  "'
+typeoutTextValues: '"            ", "              "'
 typeoutFallback: ""
 heroButtons:
  - {link: *c4pUrl, text: "Trở thành diễn giả"}
- - {permalink: "TBD", text: "Đăng ký"}
+ - {permalink: "          ", text: "Đăng ký"}
  - {link: *c4tUrl, text: "Trở thành giảng viên"}
 
 # About Block
@@ -107,10 +107,10 @@ rockstarTrainersButtonText: "Xem tất cả các giảng viên"
 
 # Location Block
 locationBlockTitle: "Địa điểm"
-eventLocationName: "TBD"
+eventLocationName: "          "
 eventLocationLink: "http://www.vnsecurity.net/"
-eventStreetAddress: "TBD"
-eventAddressLocality: "TBD"
+eventStreetAddress: "          "
+eventAddressLocality: "          "
 eventAddressLocalityRegion: "Hanoi"
 eventPostalCode: "700000"
 eventAddressCountry: "Việt nam"
