@@ -17,7 +17,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "                    "
-id: "#!8"
+id: "   "
 archive: false 
 #status: "Trang web đang xây dựng vui lòng quay lại sau"
 status: ""
@@ -41,9 +41,9 @@ organizerLink: "http://www.vnsecurity.net/"
 # Head
 metaKeywords: "vnsec, vnsecurity, tradahacking"
 twitterAccount: "@vnsec"
-socialImageSrcGooglePlus: "img/seo/trada7seo.png"
-socialImageSrcTwitter: "img/seo/trada7seo.png"
-socialImageSrcFacebook: "img/seo/trada7seo.png"
+socialImageSrcGooglePlus: "img/seo/trada8seo.png"
+socialImageSrcTwitter: "img/seo/trada8seo.png"
+socialImageSrcFacebook: "img/seo/trada8seo.png"
 
 # Documents
 c4pUrl: &c4pUrl "https://goo.gl/iq5VEq" #"https://goo.gl/aHu6rK" #goo.gl/3SkuEZ
