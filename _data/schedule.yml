@@ -1,8 +1,8 @@
 - 
-  date: "2018-08-26"
-  dateReadable: "26 Tháng 08"
+  date: "2019-09-06"
+  dateReadable: "06 Tháng 09"
   tracks: 
-    - {title: "Trà Đá Hacking #7", color: "#90be4e"}
+    - {title: "Trà Đá Hacking #9", color: "#90be4e"}
   timeslots:
     - {
         startTime: "08:30",
@@ -12,71 +12,71 @@
     - {
         startTime: "09:00",
         endTime: "09:10",
-        sessionIds: [723]
+        sessionIds: [999]
     }
     - {
         startTime: "09:10",
         endTime: "09:40",
-        sessionIds: [712]
+        sessionIds: [999]
     }
     - {
         startTime: "09:45",
         endTime: "10:15",
-        sessionIds: [713]
+        sessionIds: [999]
     }
     - {
         startTime: "10:20",
         endTime: "11:00",
-        sessionIds: [714]
+        sessionIds: [999]
     }
     - {
         startTime: "11:10",
         endTime: "11:50",
-        sessionIds: [715]
+        sessionIds: [999]
     }
     - {
         startTime: "12:00",
         endTime: "13:00",
-        sessionIds: [711]
+        sessionIds: [999]
     }
     - {
         startTime: "13:00",
         endTime: "13:30",
-        sessionIds: [724]
+        sessionIds: [999]
     }
     - {
         startTime: "13:35",
         endTime: "14:05",
-        sessionIds: [717]
+        sessionIds: [999]
     }
     - {
         startTime: "14:10",
         endTime: "14:50",
-        sessionIds: [718]
+        sessionIds: [999]
     }
     - {
         startTime: "15:00",
         endTime: "15:20",
-        sessionIds: [719]
+        sessionIds: [999]
     }
     - {
         startTime: "15:25",
         endTime: "15:55",
-        sessionIds: [716]
+        sessionIds: [999]
     }
     - {
         startTime: "16:00",
         endTime: "16:30",
-        sessionIds: [721]
+        sessionIds: [999]
     }
     - {
         startTime: "16:30",
         endTime: "17:15",
-        sessionIds: [722]
+        sessionIds: [999]
     }
     - {
         startTime: "17:15",
         endTime: "17:30",
-        sessionIds: [710]
+        sessionIds: [999]
     }
    
