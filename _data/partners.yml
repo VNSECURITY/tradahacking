@@ -1,4 +1,4 @@
 - 
   group: "Đơn vị đồng tổ chức"
   elements: 
-    - {name: "Call for sponsors", description: "", link: "mailto:trada@vnsecurity.net@Subject=Trada8-Sponsor", imageUrl: ""}
+    - {name: "Vietnam Cybersecurity Center - Authority Of Information Security ", description: "", link: "", imageUrl: "vcsc.png"}
