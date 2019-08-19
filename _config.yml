@@ -72,7 +72,7 @@ typeoutTextValues: '"            ", "              "'
 typeoutFallback: ""
 heroButtons:
  - {link: *c4pUrl, text: "Trở thành diễn giả"}
- - {permalink: "          ", text: "Đăng ký"}
+ - {permalink: "https://ticketbox.vn/event/76341/ticket-booking/53970#/step-select-tickets", text: "Đăng ký"}
  - {link: *c4tUrl, text: "Trở thành giảng viên"}
 
 # About Block
@@ -107,9 +107,9 @@ rockstarTrainersButtonText: "Xem tất cả các giảng viên"
 
 # Location Block
 locationBlockTitle: "Địa điểm"
-eventLocationName: "          "
+eventLocationName: "Tòa nhà VNPT NET"
 eventLocationLink: "http://www.vnsecurity.net/"
-eventStreetAddress: "          "
+eventStreetAddress: "Số 30, Đường Phạm Hùng, Phường Mỹ Đình, Quận Nam Từ Liêm, Thành Phố Hà Nội"
 eventAddressLocality: "          "
 eventAddressLocalityRegion: "Hanoi"
 eventPostalCode: "700000"
@@ -151,26 +151,39 @@ ticketsInfo: "Trà Đá Hacking là sự kiện phi lợi nhuận. Chúng tôi c
 ticketsOffers:
  -
   name: "Vé đăng ký sớm"
-  price: "299.000"
+  price: "133,700"
   priceCurrency: "VND"
   ticketsNumber: "200"
-  ribbon: "-66.6%"
-  buyButtonLink: "https://ticketbox.vn/event/xxxxx/ticket-booking/49422#/step-select-tickets"
+  ribbon: ""
+  buyButtonLink: "https://ticketbox.vn/event/76341/ticket-booking/53970#/step-select-tickets"
   buyButtonText: "Mua ngay"
   ticketContentList: [""]
   validFrom: "Jul 17, 2019 12:00 GMT+7"
-  validThrough: "Sep 1, 2019 12:00 GMT+7"
+  validThrough: "Aug 25, 2019 23:00 GMT+7"
  -
-  name: "Vé thường"
-  price: "499.000"
+  name: "Vé hội thảo + Tiệc tối cùng speakers"
+  price: "313,370"
   priceCurrency: "VND"
   ticketsNumber: "150"
   ribbon: ""
   featured: true
-  buyButtonLink: "https://ticketbox.vn/event/xxxx/ticket-booking/49422#/step-select-tickets"
+  buyButtonLink: "https://ticketbox.vn/event/76341/ticket-booking/53970#/step-select-tickets"
   buyButtonText: "Mua ngay"
   ticketContentList: []
-  validFrom: "Sep 1, 2019 12:00 GMT+7"
+  validFrom: "Aug 25, 2019 12:00 GMT+7"
+  validThrough: "Sep 5, 2019 13:30 GMT+7"
+  disabled: true
+  -
+  name: "Vé 'chợ đen'"
+  price: "500,000"
+  priceCurrency: "VND"
+  ticketsNumber: "150"
+  ribbon: ""
+  featured: true
+  buyButtonLink: "https://ticketbox.vn/event/76341/ticket-booking/53970#/step-select-tickets"
+  buyButtonText: "Mua ngay"
+  ticketContentList: []
+  validFrom: "Aug 25, 2019 23:00 GMT+7"
   validThrough: "Sep 5, 2019 13:30 GMT+7"
   disabled: true
 # Footer
