@@ -157,7 +157,7 @@ ticketsOffers:
   ribbon: ""
   buyButtonLink: "https://ticketbox.vn/event/76341/ticket-booking/53970#/step-select-tickets"
   buyButtonText: "Mua ngay"
-  ticketContentList: [""]
+  ticketContentList: ['Vé hội thảo']
   validFrom: "Jul 17, 2019 12:00 GMT+7"
   validThrough: "Aug 25, 2019 23:00 GMT+7"
  -
@@ -169,7 +169,7 @@ ticketsOffers:
   featured: true
   buyButtonLink: "https://ticketbox.vn/event/76341/ticket-booking/53970#/step-select-tickets"
   buyButtonText: "Mua ngay"
-  ticketContentList: []
+  ticketContentList: ['Vé hội thảo','Vé mời tiệc tối sau hội thảo']
   validFrom: "Aug 25, 2019 12:00 GMT+7"
   validThrough: "Sep 5, 2019 13:30 GMT+7"
  -
@@ -181,7 +181,7 @@ ticketsOffers:
   featured: true
   buyButtonLink: "https://ticketbox.vn/event/76341/ticket-booking/53970#/step-select-tickets"
   buyButtonText: "Mua ngay"
-  ticketContentList: []
+  ticketContentList: ['Vé hội thảo','Vé mời tiệc tối sau hội thảo']
   validFrom: "Aug 25, 2019 23:00 GMT+7"
   validThrough: "Sep 5, 2019 13:30 GMT+7"
 # Footer
