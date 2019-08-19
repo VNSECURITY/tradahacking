@@ -151,7 +151,7 @@ ticketsInfo: "Trà Đá Hacking là sự kiện phi lợi nhuận. Chúng tôi c
 ticketsOffers:
  -
   name: "Vé đăng ký sớm"
-  price: "133,700"
+  price: "133.700"
   priceCurrency: "VND"
   ticketsNumber: "200"
   ribbon: ""
@@ -161,8 +161,8 @@ ticketsOffers:
   validFrom: "Jul 17, 2019 12:00 GMT+7"
   validThrough: "Aug 25, 2019 23:00 GMT+7"
  -
-  name: "Vé hội thảo + Tiệc tối cùng speakers"
-  price: "313,370"
+  name: "Vé hội thảo & Tiệc tối cùng speakers"
+  price: "313.370"
   priceCurrency: "VND"
   ticketsNumber: "150"
   ribbon: ""
@@ -172,10 +172,9 @@ ticketsOffers:
   ticketContentList: []
   validFrom: "Aug 25, 2019 12:00 GMT+7"
   validThrough: "Sep 5, 2019 13:30 GMT+7"
-  disabled: true
-  -
-  name: "Vé 'chợ đen'"
-  price: "500,000"
+ -
+  name: "Vé chợ đen"
+  price: "500.000"
   priceCurrency: "VND"
   ticketsNumber: "150"
   ribbon: ""
@@ -185,7 +184,6 @@ ticketsOffers:
   ticketContentList: []
   validFrom: "Aug 25, 2019 23:00 GMT+7"
   validThrough: "Sep 5, 2019 13:30 GMT+7"
-  disabled: true
 # Footer
 socialLinks:
  - {link: "https://twitter.com/intent/user?screen_name=vnsec", icon: "twitter"}
