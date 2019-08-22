@@ -153,7 +153,7 @@ ticketsOffers:
   name: "Vé đăng ký sớm"
   price: "133.700"
   priceCurrency: "VND"
-  ticketsNumber: "200"
+  ticketsNumber: "150"
   ribbon: ""
   buyButtonLink: "https://ticketbox.vn/event/76341/ticket-booking/53970#/step-select-tickets"
   buyButtonText: "Mua ngay"
@@ -164,7 +164,7 @@ ticketsOffers:
   name: "Vé hội thảo & Tiệc tối cùng speakers"
   price: "313.370"
   priceCurrency: "VND"
-  ticketsNumber: "150"
+  ticketsNumber: "49"
   ribbon: ""
   featured: true
   buyButtonLink: "https://ticketbox.vn/event/76341/ticket-booking/53970#/step-select-tickets"
@@ -176,7 +176,7 @@ ticketsOffers:
   name: "Vé chợ đen"
   price: "500.000"
   priceCurrency: "VND"
-  ticketsNumber: "150"
+  ticketsNumber: "1337"
   ribbon: ""
   featured: true
   buyButtonLink: "https://ticketbox.vn/event/76341/ticket-booking/53970#/step-select-tickets"
