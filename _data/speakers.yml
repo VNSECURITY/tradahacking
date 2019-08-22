@@ -30,8 +30,8 @@
   title: "Trùm thị phi"
   bio: "Một nhân vật giữ vai trò cầu nối của tất cả các băng nhóm blackhat hacker ở Việt Nam và trong khu vực. Bề ngoài phong lưu hoa nguyệt chỉ để che đậy những việc làm mờ ám và khuất tất mà hắn đã nhúng tay vào trong suốt mấy chục năm qua trên Internet."
   thumbnailUrl: g4mm4.jpg
-  rockstar: false
-  active: false
+  rockstar: true
+  active: true
   social:
     - {name: "twitter", link: "https://twitter.com/xchym"}
 -
@@ -54,8 +54,8 @@
   title: "Researcher + coder"
   bio: "Dr.Nguyen Anh Quynh is a regular speaker at various industrial conferences such as Blackhat USA/Europe/Asia, DEFCON, Recon, Eusecwest, Syscan, HackInTheBox, Hack.lu, Deepsec, XCon, Confidence, Hitcon, Tetcon, TenSec, Opcde, Brucon, H2HC, Zeronights, Shakacon, etc. He also presented his researches in academic venues such as Usenix, IEEE, ACM, LNCS. As a passionate coder, Dr. Nguyen is the founder and maintainer of several open source reversing frameworks: Capstone (http://capstone-engine.org), Unicorn (http://unicorn-engine.org) & Keystone (http://keystone-engine.org)."
   thumbnailUrl: aquynh.png
-  rockstar: false
-  active: false
+  rockstar: true
+  active: true
   social:
     - {name: "site", link: "http://www.vnsecurity.net/"}
 -
@@ -78,8 +78,8 @@
   title: "Chuyên gia dịch ngược "
   bio: "Tôi là một lập trình viên thích chơi CTF. Trong thời gian rảnh, tôi thi thoảng tìm hiểu về các phần mềm mã độc và nghiên cứu các lỗ hổng phần mềm. Tôi cũng hay tham gia đóng góp cho các dự án mã nguồn mở liên quan tới an toàn và bảo mật thông tin. Blog của tôi: https://develbranch.com"
   thumbnailUrl: quangnh.jpg
-  rockstar: false
-  active: false
+  rockstar: true
+  active: true
   social:
     - {name: "site", link: ""}
 -
@@ -102,8 +102,8 @@
   title: ""
   bio: "* Thái là cơ thủ khét tiếng bida dù, từng chấp Lý Thế Vinh 'xổ số'.<br>* Anh ấy là huyền đai đệ eleven đẳng Taekwondo, từng tập luyện và thi đấu chung với Trần Quang Hạ, Trần Hiếu Ngân và Phan Thị Bích Hằng.<br>* Lúc rảnh rỗi Thái đi trượt tuyết. Anh ấy đang tập luyện để đại diện Việt Nam thi Olympics mùa đông kỳ tới.<br>* Thái hiện đang làm việc ở Google. Anh ấy đã có những đóng góp to lớn vào sự thành công của Google, ví dụ như từ lúc anh ấy gia nhập đến nay cổ phiếu của công ty đã tăng gấp 3 lần."
   thumbnailUrl: thaidn.jpg
-  rockstar: false
-  active: false
+  rockstar: true
+  active: true
   social:
     - {name: "site", link: ""}
 -
@@ -127,7 +127,7 @@
   bio: "Web/Mobile Pentester at FTEL. Bug hunter at home"
   thumbnailUrl: truonganh.jpg
   rockstar: false
-  active: false
+  active: true
   social:
     - {name: "site", link: ""}
 
@@ -323,7 +323,7 @@
   bio: "Một thanh niên luôn rẽ trái khi đám đông rẽ phải"
   thumbnailUrl: xboy.png
   rockstar: false
-  active: true
+  active: false
   social:
     - {name: "site", link: ""}
 -
@@ -539,7 +539,7 @@ Là diễn giả của nhiều hội thảo như Tetcon, Tradahacking, Botconf..
   title: ""
   bio: ""
   thumbnailUrl: nopic.png
-  rockstar: true
+  rockstar: false
   active: true
   social:
     - {name: "site", link: ""}
