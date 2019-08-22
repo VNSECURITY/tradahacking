@@ -190,8 +190,8 @@
   title: ""
   bio: "Bản thân là một người bình thường, ham học hỏi :) - admin[at]reaonline.net"
   thumbnailUrl: kienmanowar.jpg
-  rockstar: false
-  active: false
+  rockstar: true
+  active: true
   social:
     - {name: "site", link: "https://kienmanowar.wordpress.com/"}
 -
@@ -358,8 +358,8 @@
   title: ""
   bio: ""
   thumbnailUrl: L.jpg
-  rockstar: false
-  active: false
+  rockstar: true
+  active: true
   social:
     - {name: "site", link: ""}
 -
@@ -529,5 +529,29 @@ Là diễn giả của nhiều hội thảo như Tetcon, Tradahacking, Botconf..
   thumbnailUrl: huyna.png
   rockstar: false
   active: false
+  social:
+    - {name: "site", link: ""}
+-
+  id: 79
+  name: "Anonymous"
+  surname: ""
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: nopic.png
+  rockstar: true
+  active: true
+  social:
+    - {name: "site", link: ""}
+-
+  id: 80
+  name: "Kaijern Lau aka XWings"
+  surname: ""
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: xwings.png
+  rockstar: true
+  active: true
   social:
     - {name: "site", link: ""}
