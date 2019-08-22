@@ -240,4 +240,83 @@ Trong thời gian vừa qua, tôi có cơ hội được thực hiện pentest m
   speakers: [78]
   language: "VI"
   complexity: "Khó"
-
+-
+  id: 801
+  title: "On demand emulation"
+  description: ""
+  subtype: presentation
+  speakers: [3]
+  language: "VI"
+  complexity: "Khó"
+-
+  id: 802
+  title: "Static binary injection for MacOS"
+  description: ""
+  subtype: presentation
+  speakers: [79]
+  language: "VI"
+  complexity: "Khó"
+-
+  id: 803
+  title: "Bú Fame cho vui và cái kết"
+  description: ""
+  subtype: presentation
+  speakers: [1]
+  language: "VI"
+  complexity: "Khó"
+-
+  id: 804
+  title: "Trải lòng - Nghề Malware Analysis"
+  description: ""
+  subtype: presentation
+  speakers: [14]
+  language: "VI"
+  complexity: "Khó"
+-
+  id: 805
+  title: "Detecting abnormal behaviours in Ethereum smart contracts"
+  description: ""
+  subtype: presentation
+  speakers: [79]
+  language: "VI"
+  complexity: "Khó"
+-
+  id: 806
+  title: "remote presentation"
+  description: ""
+  subtype: presentation
+  speakers: [7]
+  language: "VI"
+  complexity: "Khó"
+-
+  id: 807
+  title: "JiuWei: a Cross Platform and Multi Architecture Shellcode Executor"
+  description: ""
+  subtype: presentation
+  speakers: [80]
+  language: "VI"
+  complexity: "Khó"
+-
+  id: 808
+  title: "Static Binary Instrumentation và WinAFL: Cặp đôi vàng trong làng tìm lỗ hổng"
+  description: ""
+  subtype: presentation
+  speakers: [5]
+  language: "VI"
+  complexity: "Khó"
+-
+  id: 809
+  title: "Semmle / Ứng dụng vào kiểm tra và khai thác lỗi"
+  description: ""
+  subtype: presentation
+  speakers: [28]
+  language: "VI"
+  complexity: "Khó"
+ -
+  id: 810
+  title: "Làm sao để sống được bằng nghề Bug Hunter?"
+  description: ""
+  subtype: presentation
+  speakers: [9]
+  language: "VI"
+  complexity: "Khó"
