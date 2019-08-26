@@ -241,7 +241,7 @@ Trong thời gian vừa qua, tôi có cơ hội được thực hiện pentest m
   language: "VI"
   complexity: "Khó"
 -
-  id: 801
+  id: 810
   title: "On demand emulation"
   description: ""
   subtype: presentation
@@ -313,9 +313,9 @@ Trong thời gian vừa qua, tôi có cơ hội được thực hiện pentest m
   language: "VI"
   complexity: "Khó"
 -
-  id: 810
+  id: 801
   title: "Làm sao để sống được bằng nghề Bug Hunter?"
-  description: ""
+  description: "Chia sẻ những khó khăn, kinh nghiệm trong thời gian chơi bug bounty, từ đó rút ra bài học. Trình bày các lỗi thú vị, các lỗi được bounty cao của bản thân"
   subtype: presentation
   speakers: [9]
   language: "VI"
