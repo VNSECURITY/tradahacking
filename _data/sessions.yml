@@ -259,11 +259,11 @@ Trong thời gian vừa qua, tôi có cơ hội được thực hiện pentest m
 -
   id: 803
   title: "Bú Fame cho vui và cái kết"
-  description: ""
+  description: "Một cty bảo mật mới startup cần lấy số nên đã liên hệ thuê tôi. Với tính cách thích cà khịa các hãng lớn, đặc biệt cực thích mỉa mai các tên tuổi làm về bảo mật, tôi đã vui vẻ nhận lời. Bài nói sẽ trình bày một vài kỹ/chiến thuật cần thiết khi các bạn muốn bôi đen tên mình lên Hall of Fame của họ"
   subtype: presentation
   speakers: [1]
   language: "VI"
-  complexity: "Khó"
+  complexity: "Cực Khó"
 -
   id: 804
   title: "Trải lòng - Nghề Malware Analysis"
