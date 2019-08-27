@@ -267,7 +267,7 @@ Trong thời gian vừa qua, tôi có cơ hội được thực hiện pentest m
 -
   id: 804
   title: "Trải lòng - Nghề Malware Analysis"
-  description: ""
+  description: "Theo dõi mấy buổi live stream của CyberJutsu Gang, tôi thấy vẫn còn nhiều bạn lăn tăn về con đường và nghề phân tích mã độc. Nhân [TràĐáHacking:::Hồi Thứ 8], tôi sẽ dành dăm chục phút trải lòng với các bạn.... Bài trình bày của tôi nói ra thì ai cũng biết, có chăng chỉ vẫn là không có bạn nào chịu cầm mic mà thôi..."
   subtype: presentation
   speakers: [14]
   language: "VI"
@@ -299,9 +299,7 @@ Trong thời gian vừa qua, tôi có cơ hội được thực hiện pentest m
 -
   id: 808
   title: "Static Binary Instrumentation và WinAFL: Cặp đôi vàng trong làng tìm lỗ hổng"
-  description: "Giới thiệu công cụ Static Binary Instrumentation (SBI) và ứng dụng của kĩ thuật này trong việc tìm lỗi trên các phần mềm closed source của nền tảng Microsoft Windows.
-
-Công cụ SBI cho phép thực hiện instrument một đoạn chương trình bất kì trong file thực thi để có thể đánh dấu quá trình thực thi của một tiến trình. Bài nói cũng trình bày kinh nghiệm khi fuzzing trên hệ điều hành Microsoft Windows bằng WinAFL. Phần kết thúc, bài nói sẽ giới thiệu về các lỗ hổng của Microsoft Jet database được tìm thấy dựa vào phương pháp này."
+  description: "Giới thiệu công cụ Static Binary Instrumentation (SBI) và ứng dụng của kĩ thuật này trong việc tìm lỗi trên các phần mềm closed source của nền tảng Microsoft Windows. Công cụ SBI cho phép thực hiện instrument một đoạn chương trình bất kì trong file thực thi để có thể đánh dấu quá trình thực thi của một tiến trình. Bài nói cũng trình bày kinh nghiệm khi fuzzing trên hệ điều hành Microsoft Windows bằng WinAFL. Phần kết thúc, bài nói sẽ giới thiệu về các lỗ hổng của Microsoft Jet database được tìm thấy dựa vào phương pháp này."
   subtype: presentation
   speakers: [5]
   language: "VI"
@@ -309,7 +307,7 @@ Công cụ SBI cho phép thực hiện instrument một đoạn chương trình 
 -
   id: 809
   title: "Semmle - Ứng dụng vào kiểm tra và khai thác lỗi"
-  description: ""
+  description: "Semmle là nền tảng phân tích giúp cho các kĩ sư có thể tìm các lỗi bảo mật cũng như săn lùng các biến thể trong các mã nguồn đối tượng. Bài nói này, tôi sẽ giúp sơ lược tóm tắt vài khái niệm, nội dung cơ bản để bạn có thể bắt đầu tìm hiểu nó. Cũng như demo vài ứng dụng Semmle trên các mục đích thực tế."
   subtype: presentation
   speakers: [28]
   language: "VI"
