@@ -1,8 +1,4 @@
 - 
-  group: "Đơn vị đồng tổ chức"
-  elements: 
-    - {name: "Vietnam Cybersecurity Center - Authority Of Information Security ", description: "", link: "", imageUrl: "vcsc.png"}
-- 
   group: "Nhà tài trợ"
   elements: 
     - {name: "Viettel", description: "", link: "https://viettel.vn", imageUrl: "viettel.png"}
