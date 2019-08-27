@@ -243,7 +243,7 @@ Trong thời gian vừa qua, tôi có cơ hội được thực hiện pentest m
 -
   id: 810
   title: "On demand emulation"
-  description: ""
+  description: "Imagine that at run-time, you can dynamically switch native code execution with emulation (back and forth, at will). This would open up exciting opportunities for many advanced applications of binary analysis. Come to see how we solved many technical challenges to realize this magic."
   subtype: presentation
   speakers: [3]
   language: "VI"
@@ -291,7 +291,7 @@ Trong thời gian vừa qua, tôi có cơ hội được thực hiện pentest m
 -
   id: 807
   title: "JiuWei: a Cross Platform and Multi Architecture Shellcode Executor"
-  description: ""
+  description: "Functioning as the first-stage in an exploitation, shellcode play an important role in successfully triggering software vulnerability. Since this part of payload is written in low-level machine code, understanding how it works is not trivial for analysis. This presentation introduces JiuWei, a cross-platform and multi architecture machine code analyzer. Based on Unicorn emulator (http://unicorn-engine.org), our tool is able to execute & analyze all kind of shellcodes, regardless of Operating System (Windows, Mac, Linux, Android, etc) or CPU architectures (Intel, Arm, Aarch64, Mips). Thanks to a powerful instrumentation engine, the output report can show what the shellcode does inside, in a friendly high-level output format. In this talk, we will give a brief introduction on the design & implementation of JiuWei, some technical challenges we had to solve, and some cool live demo on modern shellcode."
   subtype: presentation
   speakers: [80]
   language: "VI"
@@ -299,7 +299,9 @@ Trong thời gian vừa qua, tôi có cơ hội được thực hiện pentest m
 -
   id: 808
   title: "Static Binary Instrumentation và WinAFL: Cặp đôi vàng trong làng tìm lỗ hổng"
-  description: ""
+  description: "Giới thiệu công cụ Static Binary Instrumentation (SBI) và ứng dụng của kĩ thuật này trong việc tìm lỗi trên các phần mềm closed source của nền tảng Microsoft Windows.
+
+Công cụ SBI cho phép thực hiện instrument một đoạn chương trình bất kì trong file thực thi để có thể đánh dấu quá trình thực thi của một tiến trình. Bài nói cũng trình bày kinh nghiệm khi fuzzing trên hệ điều hành Microsoft Windows bằng WinAFL. Phần kết thúc, bài nói sẽ giới thiệu về các lỗ hổng của Microsoft Jet database được tìm thấy dựa vào phương pháp này."
   subtype: presentation
   speakers: [5]
   language: "VI"
