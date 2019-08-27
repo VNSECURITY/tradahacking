@@ -555,3 +555,15 @@ Là diễn giả của nhiều hội thảo như Tetcon, Tradahacking, Botconf..
   active: true
   social:
     - {name: "site", link: ""}
+-
+  id: 91
+  name: "Đỗ Minh Tuấn"
+  surname: ""
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: dominhtuan.png
+  rockstar: true
+  active: true
+  social:
+    - {name: "site", link: ""}
