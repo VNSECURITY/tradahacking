@@ -2,3 +2,7 @@
   group: "Đơn vị tổ chức chính"
   elements: 
     - {name: "VNSecurity", description: "Nhóm nghiên cứu chuyên sâu về bảo mật máy tính lâu đời nhất tại Việt Nam", link: "http://www.vnsecurity.net", imageUrl: "vnsec.png"}
+- 
+  group: "Đơn vị đồng tổ chức"
+  elements: 
+    - {name: "Vietnam Cybersecurity Center - Authority Of Information Security ", description: "", link: "", imageUrl: "vcsc.png"}
