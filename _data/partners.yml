@@ -1,5 +1,5 @@
 - 
-  group: "Nhà tài trợ"
+  group: " "
   elements: 
     - {name: "Viettel", description: "", link: "https://viettel.vn", imageUrl: "viettel.png"}
     - {name: "FPT", description: "", link: "https://fpt.vn", imageUrl: "fpt.png"}
