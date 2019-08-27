@@ -251,7 +251,8 @@ Trong thời gian vừa qua, tôi có cơ hội được thực hiện pentest m
 -
   id: 802
   title: "Static binary injection for MacOS"
-  description: ""
+  description: "Static binary injection is a technique to physically modify & patch executable file, so it can execute extra injected code at runtime. The technique has important impact on cybersecurity. From an attacker's perspective, this is helpful to build persistent infection. From the point of defense, this plays a crucial part in performing instrumentation for binary analysis. This talk introduces our approach to inject high level code (built from C/C++, not simple shellcode) for MacOS. We will will present all the technical issues we had to deal with, including understanding MachO file formats, how to expand the original binary to accommodate new code, how our simplified static linker leverage the dyld dynamic linker to do heavy lifting job for us.
+This presentation will be concluded with some live demo."
   subtype: presentation
   speakers: [79]
   language: "VI"
