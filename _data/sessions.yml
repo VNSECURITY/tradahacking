@@ -276,7 +276,7 @@ This presentation will be concluded with some live demo."
 -
   id: 805
   title: "Detecting abnormal behaviours in Ethereum smart contracts"
-  description: ""
+  description: "Blockchain technology has gradually been popularized by its transparency, fairness, and democracy. This notorious technology has opened the door to the development of Ethereum smart contracts which inherit those prominent properties from blockchain. The ability to hold and transfer tokens and assets is also included in those contracts. In term of implementation, smart contracts are essentially computer programs making them inevitable to vulnerabilities. In recent years, many successful attacks draining millions of dollars have been recorded. Therefore, developers demand to know whether the execution of smart contracts leads to any security issues. In this paper, we classify attack vectors on smart contracts based on their tracks and propose some methods to detect these attack vectors. We also implement Abbe---a tool which features detecting these abnormal behaviours."
   subtype: presentation
   speakers: [79]
   language: "VI"
