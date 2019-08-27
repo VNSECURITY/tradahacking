@@ -2,7 +2,11 @@
   group: "Đơn vị đồng tổ chức"
   elements: 
     - {name: "Vietnam Cybersecurity Center - Authority Of Information Security ", description: "", link: "", imageUrl: "vcsc.png"}
-    - {name: "CMC Cyber Security", description: "", link: "https://www.cmcinfosec.com", imageUrl: "cmccyber.png"}
-    - {name: "FPT", description: "", link: "https://fpt.vn", imageUrl: "fpt.png"}
+- 
+  group: "Nhà tài trợ"
+  elements: 
     - {name: "Viettel", description: "", link: "https://viettel.vn", imageUrl: "viettel.png"}
+    - {name: "FPT", description: "", link: "https://fpt.vn", imageUrl: "fpt.png"}
     - {name: "E-CQurity Việt Nam (ECQ)", description: "", link: "https://e-cq.net", imageUrl: "ecq-new-logo.png"}
+    - {name: "CMC Cyber Security", description: "", link: "https://www.cmcinfosec.com", imageUrl: "cmccyber.png"}
+    
