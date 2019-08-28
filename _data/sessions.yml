@@ -242,8 +242,8 @@ Trong thời gian vừa qua, tôi có cơ hội được thực hiện pentest m
   complexity: "Khó"
 -
   id: 810
-  title: "On demand emulation"
-  description: "Imagine that at run-time, you can dynamically switch native code execution with emulation (back and forth, at will). This would open up exciting opportunities for many advanced applications of binary analysis. Come to see how we solved many technical challenges to realize this magic."
+  title: "On-demand emulation"
+  description: "Imagine that at run-time, you can dynamically switch native code execution with emulation (back and forth, at will). This would open up exciting opportunities for many advanced applications of binary analysis. Come to see how we solved many technical challenges to achieve this magic."
   subtype: presentation
   speakers: [3]
   language: "VI"
@@ -251,7 +251,7 @@ Trong thời gian vừa qua, tôi có cơ hội được thực hiện pentest m
 -
   id: 802
   title: "Static binary injection for MacOS"
-  description: "Static binary injection is a technique to physically modify & patch executable file, so it can execute extra injected code at runtime. The technique has important impact on cybersecurity. From an attacker's perspective, this is helpful to build persistent infection. From the point of defense, this plays a crucial part in performing instrumentation for binary analysis. This talk introduces our approach to inject high level code (built from C/C++, not simple shellcode) for MacOS. We will will present all the technical issues we had to deal with, including understanding MachO file formats, how to expand the original binary to accommodate new code, how our simplified static linker leverage the dyld dynamic linker to do heavy lifting job for us.
+  description: "Static binary injection is a technique to physically modify & patch executable file, so it can execute extra injected code at runtime. The technique has important impact on cybersecurity. From an attacker's perspective, this is helpful to build persistent infection. From the point of defense, this plays a crucial part in performing instrumentation for binary analysis. This talk introduces our approach to inject high level code (built from C/C++, not just simple shellcode) for MacOS. We will will present all the technical issues we had to deal with, including understanding MachO file formats, how to expand the original binary to accommodate new code, how our simplified static linker leverage the dyld dynamic linker to do heavy lifting job for us.
 This presentation will be concluded with some live demo."
   subtype: presentation
   speakers: [91]
