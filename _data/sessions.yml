@@ -5,6 +5,12 @@
   service: true
   description: "Giải lao - Uống trà cùng diễn giả"
 -
+  id: 002
+  title: "Nghỉ trưa"
+  place: "Hall"
+  service: true
+  description: "Nghỉ trưa - Ăn trưa cùng diễn giả"
+-
   id: 999
   title: "TBA"
   subtype: presentation
