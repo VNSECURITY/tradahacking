@@ -281,8 +281,8 @@ This presentation will be concluded with some live demo."
   complexity: "Khó"
 -
   id: 805
-  title: "Detecting abnormal behaviours in Ethereum smart contracts"
-  description: "By introducing the concept of storing and executing program on blockchain, smart contract is the main force behind the dominance of Ethereum platform. Unfortunately, like legacy code, smart contract can be ridden with vulnerabilities, which may cause immediate negative impact in term of economy. To find bugs in smart contracts, most existing tools rely on analyzing contract code, either via symbolic execution or static analysis. However, none of them is perfect, as they still miss some kind of vulnerabilities. This research takes a totally different approach: we built a new heuristic-based solution, named ABBE, that can detect known and unknown attacks on live smart contracts by analyzing blockchain transactions and storage. Our methodology proves to be very effective: ABBE can also discover 0day attacks on Ethereum smart contracts with zero false positives in most vulnerability categories. This talk briefly overviews some background of Ethereum, then classifies security bugs of its smart contracts. Next, we will present the design, implementation and evaluation of ABBE. To conclude, we have some cool live demo to show how ABBE can easily detect all the classical vulnerabilities and beyond."
+  title: "Phát hiện hành vi bất thường trong Ethereum smart contract"
+  description: "Smart contract của Ethereum có khả năng lưu trữ tiền mã hoá và vận hành như một chương trình máy tính. Vì thế, các smart contract này đã trở thành mục tiêu tấn công trong nhiều năm qua. Bài trình bày sẽ giới thiệu về ABBE, một công cụ ra đời nhằm phát hiện các tấn công trên Ethereum smart contract. Trong phần demo sẽ tái hiện lại các tấn công nổi tiếng trong lịch sử và khả năng phát hiện của ABBE."
   subtype: presentation
   speakers: [92]
   language: "VI"
