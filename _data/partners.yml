@@ -2,8 +2,10 @@
   group: " "
   elements: 
     - {name: "Viettel", description: "", link: "https://viettel.vn", imageUrl: "viettel.png"}
-    - {name: "FPT", description: "", link: "https://fpt.vn", imageUrl: "fpt.png"}
-    - {name: "E-CQurity Việt Nam (ECQ)", description: "", link: "https://e-cq.net", imageUrl: "ecq-new-logo.png"}
-    - {name: "CMC Cyber Security", description: "", link: "https://www.cmcinfosec.com", imageUrl: "cmccyber.png"}
     - {name: "VNPT Net", description: "", link: "http://www.vnptnet.vn/", imageUrl: "vnpt.png", width: "100px"}
+    - {name: "FPT", description: "", link: "https://fpt.vn", imageUrl: "fpt.png"}
+    - {name: "CMC Cyber Security", description: "", link: "https://www.cmcinfosec.com", imageUrl: "cmccyber.png"}
+    - {name: "E-CQurity Việt Nam (ECQ)", description: "", link: "https://e-cq.net", imageUrl: "ecq-new-logo.png"}
+    - {name: "VSEC", description: "", link: "https://vsec.com.vn", imageUrl: "vsec.png"}
+    
     
