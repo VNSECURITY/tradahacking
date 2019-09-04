@@ -527,7 +527,7 @@ Là diễn giả của nhiều hội thảo như Tetcon, Tradahacking, Botconf..
   title: ""
   bio: "Coder @ VCS, Outdated pwner @ PiggyBird, Duplicator @ ZDI"
   thumbnailUrl: huyna.png
-  rockstar: false
+  rockstar: true
   active: false
   social:
     - {name: "site", link: ""}
@@ -563,7 +563,7 @@ Là diễn giả của nhiều hội thảo như Tetcon, Tradahacking, Botconf..
   title: ""
   bio: "Do Minh Tuan (hardtobelieve) is a security researcher of CyStack, Vietnam. Soon going to finish his university study, he already has 4 years of working experience. A passionate member of BabyPhD CTF team, Tuan also enjoys exploring deeply technique of fuzzing and software exploitation."
   thumbnailUrl: dominhtuan.png
-  rockstar: true
+  rockstar: false
   active: true
   social:
     - {name: "site", link: ""}
@@ -575,7 +575,7 @@ Là diễn giả của nhiều hội thảo như Tetcon, Tradahacking, Botconf..
   title: ""
   bio: "Nguyen Quoc Bao studied at HCMC University of Technology, majoring in Computer Science. With more than two years diving in Blockchain field, he took part in developing several blockchain products. As a passionate member of Efiens CTF Team, he also enjoys findings bugs and conducting security research about Ethereum smart contracts."
   thumbnailUrl: baonq4.jpg
-  rockstar: true
+  rockstar: false
   active: true
   social:
     - {name: "site", link: ""}
@@ -587,7 +587,20 @@ Là diễn giả của nhiều hội thảo như Tetcon, Tradahacking, Botconf..
   title: ""
   bio: "CTF player from MeePwnCTF && PwnPHOFun CTF team / Security Engineer / Web warrior / Bug bounty hunter"
   thumbnailUrl: ducnt.jpg
-  rockstar: true
+  rockstar: false
   active: true
   social:
     - {name: "site", link: ""}
+-
+  id: 94
+  name: "Dương Thành Vịnh"
+  surname: ""
+  company: ""
+  title: ""
+  bio: "Sinh viên chuyên ngành an toàn thông tin của Học viện Kỹ thuật Mật mã"
+  thumbnailUrl: nopic.png
+  rockstar: false
+  active: true
+  social:
+    - {name: "site", link: ""}    
+    
