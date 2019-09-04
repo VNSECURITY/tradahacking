@@ -615,4 +615,15 @@ Là diễn giả của nhiều hội thảo như Tetcon, Tradahacking, Botconf..
   active: true
   social:
     - {name: "site", link: ""}    
-        
+-
+  id: 96
+  name: "Tạ Quang Khánh"
+  surname: ""
+  company: ""
+  title: ""
+  bio: "Tôi tiếp cận Capture The Flag và Reverse Code Engineering vài năm cuối Đại học, sau đó được nhận vào làm việc tại một số công ty với công việc chính là phân tích mã độc hại. Tập trung chủ yếu vào nền tảng Windows,  phần lớn thời gian tôi làm static analysis. Tôi cũng thường xuyên đọc báo, đủ các thể loại báo. Ngoài ra, tôi chơi Đế chế khi có bạn, gần như là bất cứ khi nào."
+  thumbnailUrl: nopic.png
+  rockstar: false
+  active: true
+  social:
+    - {name: "site", link: ""}            
