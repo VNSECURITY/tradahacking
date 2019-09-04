@@ -335,3 +335,19 @@ This presentation will be concluded with some live demo."
   speakers: [93]
   language: "VI"
   complexity: "Khó"
+-
+  id: 812
+  title: "How we apply machine learning to detect user behavior ouliers"
+  description: "I gonna give a brief talk about our  approach to detect user behavior anomalies. In short, we use topic modeling technologies(currently we implemented LDA), treating every SIEM event  and layer 7 content flows as a WORD. "
+  subtype: presentation
+  speakers: [95]
+  language: "VI"
+  complexity: "Khó"
+-
+  id: 813
+  title: "The new chapter of VNSEC"
+  description: "This year we celebrate 20th Anniversary of VNSecurity. It's the time for a reboot and we are planning exciting things for the coming months. Stay tuned for more announcements"
+  subtype: presentation
+  speakers: [0]
+  language: "VI"
+  complexity: "Dễ"
