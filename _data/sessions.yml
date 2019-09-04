@@ -247,7 +247,7 @@ Trong thời gian vừa qua, tôi có cơ hội được thực hiện pentest m
   language: "VI"
   complexity: "Khó"
 -
-  id: 810
+  id: 801
   title: "On-demand emulation"
   description: "Imagine that at run-time, you can dynamically switch native code execution with emulation (back and forth, at will). This would open up exciting opportunities for many advanced applications of binary analysis. Come to see how we solved many technical challenges to achieve this magic."
   subtype: presentation
@@ -289,12 +289,12 @@ This presentation will be concluded with some live demo."
   complexity: "Khó"
 -
   id: 806
-  title: "remote presentation"
-  description: ""
+  title: "Giới thiệu Electron và debug một ứng dụng electron"
+  description: "Bài nói gồm 2 phần:<br>-Phần 1: Giới thiệu về platform electron, cấu trúc chương trình,..<br>- Phần 2: Demo về debug, tìm kiếm lỗi, lỗ hổng của electron"
   subtype: presentation
-  speakers: [7]
+  speakers: [94]
   language: "VI"
-  complexity: "Khó"
+  complexity: "Trung bình"
 -
   id: 807
   title: "JiuWei: a Cross Platform and Multi Architecture Shellcode Executor"
@@ -320,7 +320,7 @@ This presentation will be concluded with some live demo."
   language: "VI"
   complexity: "Khó"
 -
-  id: 801
+  id: 810
   title: "Làm sao để sống được bằng nghề Bug Hunter?"
   description: "Chia sẻ những khó khăn, kinh nghiệm trong thời gian chơi bug bounty, từ đó rút ra bài học. Trình bày các lỗi thú vị, các lỗi được bounty cao của bản thân"
   subtype: presentation
