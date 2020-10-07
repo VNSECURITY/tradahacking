@@ -415,33 +415,37 @@ This presentation will be concluded with some live demo."
   language: "VI"
   complexity: "Trung bình"
 -
-  id: 901
-  title: "Advanced Panda Threat"
-  description: "Giữa năm 2018, tôi bắt đầu làm việc cho một công ty an ninh mạng của Viettel. Sau đó vài tháng tôi có đi thực hiện tác vụ rà soát và xử lý mã độc (chỗ tôi làm gọi là cleanup(), đúng theo nghĩa đen của nó) cho một cơ quan chính phủ, có khá nhiều mẫu mã độc chúng tôi thu được trên hệ thống của họ tại thời điểm đó. Một số dấu hiệu ban đầu cho thấy đây là một tấn công APT (Advanced Persistent Threat). Đến khoảng thời gian khoảng đầu năm nay (2019), tôi quyết định dành một số thời gian để phân tích các mẫu này và xa hơn là đánh giá về nhóm hacker đứng đằng sau tấn công. Bài nói sẽ trình bày nhanh một số thông tin mà tôi đã thu được về nhóm này trong quá trình phân tích. Ngoài ra tôi cũng sẽ chia sẻ một số vấn đề mà tôi gặp phải trong việc xử lý case APT, với tư cách là một newbie - đây là lần đầu tiên tôi tiếp cận và có một cái nhìn rõ hơn về tấn công APT thay vì việc đọc các bài báo/báo cáo đã được publish của nước ngoài hay nghe người khác nói về nó, hi vọng có thể cùng trao đổi với các chuyên gia có mặt tại hội thảo. Dự định ban đầu của tôi là hoàn thiện bản báo cáo (với nhiều thông tin kỹ thuật chi tiết hơn, dưới dạng whitepaper) trước thời điểm diễn ra Trà Đá Hacking #8, tuy nhiên vì một số lý do mà không thể hoàn thành kịp tiến độ. Hi vọng rằng nó có thể được hoàn thành và công bố trong thời gian sớm"
+  id: 907
+  title: "Chơi game quá gà thì làm gì?"
+  description: "Bài trình bay ngắn gọn, xuôi tai, xúc tích về quá trình học hack game đế chế 2 DE của một người chơi game quá gà."
   subtype: presentation
   speakers: [96]
   language: "VI"
   complexity: "Trung bình"
 -
-  id: 901
-  title: "Advanced Panda Threat"
-  description: "Giữa năm 2018, tôi bắt đầu làm việc cho một công ty an ninh mạng của Viettel. Sau đó vài tháng tôi có đi thực hiện tác vụ rà soát và xử lý mã độc (chỗ tôi làm gọi là cleanup(), đúng theo nghĩa đen của nó) cho một cơ quan chính phủ, có khá nhiều mẫu mã độc chúng tôi thu được trên hệ thống của họ tại thời điểm đó. Một số dấu hiệu ban đầu cho thấy đây là một tấn công APT (Advanced Persistent Threat). Đến khoảng thời gian khoảng đầu năm nay (2019), tôi quyết định dành một số thời gian để phân tích các mẫu này và xa hơn là đánh giá về nhóm hacker đứng đằng sau tấn công. Bài nói sẽ trình bày nhanh một số thông tin mà tôi đã thu được về nhóm này trong quá trình phân tích. Ngoài ra tôi cũng sẽ chia sẻ một số vấn đề mà tôi gặp phải trong việc xử lý case APT, với tư cách là một newbie - đây là lần đầu tiên tôi tiếp cận và có một cái nhìn rõ hơn về tấn công APT thay vì việc đọc các bài báo/báo cáo đã được publish của nước ngoài hay nghe người khác nói về nó, hi vọng có thể cùng trao đổi với các chuyên gia có mặt tại hội thảo. Dự định ban đầu của tôi là hoàn thiện bản báo cáo (với nhiều thông tin kỹ thuật chi tiết hơn, dưới dạng whitepaper) trước thời điểm diễn ra Trà Đá Hacking #8, tuy nhiên vì một số lý do mà không thể hoàn thành kịp tiến độ. Hi vọng rằng nó có thể được hoàn thành và công bố trong thời gian sớm"
+  id: 908
+  title: "Demigod: Emulating Kernel Rootkits"
+  description: "Kernel rootkit is considered the most dangerous malware that may infect computers. Operating at ring 0, the highest privilege level in the system, this super malware has unrestricted power to control the whole machine, thus can defeat all the defensive & monitoring mechanisms. Unfortunately, dynamic analysis solutions for kernel rootkits are severely lacking; indeed, most existing dynamic tools are just built for userspace code (ring 3), but not for Operating System (OS) level. This limitation forces security researchers to turn to static analysis, which however proved to be very tricky & time consuming.\
+  This research proposes a novel approach to deal with kernel rootkits. We introduce Demigod, a framework to emulate OS environments, so kernel rootkits can be run in software emulators, all in ring 3. From this sandbox, we can safely monitor, trace, debug or perform all kinds of dynamic analysis with this advanced malware.\
+  Emulating complicated OS such as Windows, MacOS & Linux is a challenging task. We will present all the technical issues we had to deal with, including how we built our own loader and dynamic linker, how to emulate the OS environment, essential kernel components and system APIs to allow rootkits to work.\
+  Designed & implemented as a cross-platform-architecture engine, Demigod can emulate Windows, MacOS & Linux on X86/Arm/Aarch64/Mips. On top of our framework, we built some advanced tools to analyze kernel rootkits, including some automated solutions, providing the malware analyst new weapons to ease their labor work.\
+  Demigod is based on Qiling.io emulator. "
   subtype: presentation
   speakers: [96]
   language: "VI"
   complexity: "Trung bình"
 -
-  id: 901
-  title: "Advanced Panda Threat"
-  description: "Giữa năm 2018, tôi bắt đầu làm việc cho một công ty an ninh mạng của Viettel. Sau đó vài tháng tôi có đi thực hiện tác vụ rà soát và xử lý mã độc (chỗ tôi làm gọi là cleanup(), đúng theo nghĩa đen của nó) cho một cơ quan chính phủ, có khá nhiều mẫu mã độc chúng tôi thu được trên hệ thống của họ tại thời điểm đó. Một số dấu hiệu ban đầu cho thấy đây là một tấn công APT (Advanced Persistent Threat). Đến khoảng thời gian khoảng đầu năm nay (2019), tôi quyết định dành một số thời gian để phân tích các mẫu này và xa hơn là đánh giá về nhóm hacker đứng đằng sau tấn công. Bài nói sẽ trình bày nhanh một số thông tin mà tôi đã thu được về nhóm này trong quá trình phân tích. Ngoài ra tôi cũng sẽ chia sẻ một số vấn đề mà tôi gặp phải trong việc xử lý case APT, với tư cách là một newbie - đây là lần đầu tiên tôi tiếp cận và có một cái nhìn rõ hơn về tấn công APT thay vì việc đọc các bài báo/báo cáo đã được publish của nước ngoài hay nghe người khác nói về nó, hi vọng có thể cùng trao đổi với các chuyên gia có mặt tại hội thảo. Dự định ban đầu của tôi là hoàn thiện bản báo cáo (với nhiều thông tin kỹ thuật chi tiết hơn, dưới dạng whitepaper) trước thời điểm diễn ra Trà Đá Hacking #8, tuy nhiên vì một số lý do mà không thể hoàn thành kịp tiến độ. Hi vọng rằng nó có thể được hoàn thành và công bố trong thời gian sớm"
+  id: 909
+  title: "Sử dụng LLVM Clang để phân tích source code"
+  description: "Gần đây do yêu cầu công việc/học tập, mình có học, sử dụng Clang và phát hiện một số tool, công cụ hay ho để phân tích tĩnh mã nguồn của thư viện họ C/C++ (source code static analysis): ccc-analyzer, scan-build,... hay tự viết 1 checker. Việc phân tích những đặc trưng của mã nguồn có thể giúp ích nhiều trong việc tìm những hàm mục tiêu có chứa lỗi. Bài chia sẻ ngắn với hi vọng mang lại thông tin hữu ích cho cộng đồng."
   subtype: presentation
   speakers: [96]
   language: "VI"
   complexity: "Trung bình"
 -
-  id: 901
-  title: "Advanced Panda Threat"
-  description: "Giữa năm 2018, tôi bắt đầu làm việc cho một công ty an ninh mạng của Viettel. Sau đó vài tháng tôi có đi thực hiện tác vụ rà soát và xử lý mã độc (chỗ tôi làm gọi là cleanup(), đúng theo nghĩa đen của nó) cho một cơ quan chính phủ, có khá nhiều mẫu mã độc chúng tôi thu được trên hệ thống của họ tại thời điểm đó. Một số dấu hiệu ban đầu cho thấy đây là một tấn công APT (Advanced Persistent Threat). Đến khoảng thời gian khoảng đầu năm nay (2019), tôi quyết định dành một số thời gian để phân tích các mẫu này và xa hơn là đánh giá về nhóm hacker đứng đằng sau tấn công. Bài nói sẽ trình bày nhanh một số thông tin mà tôi đã thu được về nhóm này trong quá trình phân tích. Ngoài ra tôi cũng sẽ chia sẻ một số vấn đề mà tôi gặp phải trong việc xử lý case APT, với tư cách là một newbie - đây là lần đầu tiên tôi tiếp cận và có một cái nhìn rõ hơn về tấn công APT thay vì việc đọc các bài báo/báo cáo đã được publish của nước ngoài hay nghe người khác nói về nó, hi vọng có thể cùng trao đổi với các chuyên gia có mặt tại hội thảo. Dự định ban đầu của tôi là hoàn thiện bản báo cáo (với nhiều thông tin kỹ thuật chi tiết hơn, dưới dạng whitepaper) trước thời điểm diễn ra Trà Đá Hacking #8, tuy nhiên vì một số lý do mà không thể hoàn thành kịp tiến độ. Hi vọng rằng nó có thể được hoàn thành và công bố trong thời gian sớm"
+  id: 910
+  title: "Keynote & Kết Thúc Chương Trình"
+  description: ""
   subtype: presentation
   speakers: [96]
   language: "VI"
