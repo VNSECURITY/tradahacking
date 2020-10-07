@@ -450,4 +450,20 @@ This presentation will be concluded with some live demo."
   speakers: [96]
   language: "VI"
   complexity: "Trung bình"
+-
+  id: 911
+  title: "Keynote & Kết Thúc Chương Trình"
+  description: ""
+  subtype: presentation
+  speakers: [96]
+  language: "VI"
+  complexity: "Trung bình"
+-
+  id: 912
+  title: "Khai mạc #Virtual TràĐáHacking"
+  description: ""
+  subtype: presentation
+  speakers: [96]
+  language: "VI"
+  complexity: "Trung bình"
 
