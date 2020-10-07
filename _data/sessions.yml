@@ -359,4 +359,91 @@ This presentation will be concluded with some live demo."
   speakers: [96]
   language: "VI"
   complexity: "Trung bình"
+-
+  id: 901
+  title: "A Note on Wordpress Plugin Security"
+  description: "Chia sẻ ngắn về hiện trạng tấn công nhằm vào wordpress plugin, những vấn đề bảo mật còn tồn tại, một vài thử nghiệm tìm bug trong top 1000 plugins."
+  subtype: presentation
+  speakers: [96]
+  language: "VI"
+  complexity: "Trung bình"
+-
+  id: 902
+  title: "How to start a CVE farm with GadgetInspector"
+  description: "Giới thiệu về công cụ GadgetInspector (tác giả công cụ: Ian Haken) trong việc hỗ trợ tìm kiếm các lỗ hổng Java Deserialization. Phân tích nhược điểm của công cụ và cách khắc phục, tối ưu. Demo CVE đã tìm thấy bởi công cụ và chia sẽ một số idea tìm kiếm lỗ hổng Java Deserialization dựa theo kinh nghiệm của bản thân speaker."
+  subtype: presentation
+  speakers: [96]
+  language: "VI"
+  complexity: "Trung bình"
+-
+  id: 903
+  title: "The Role of  Compliance audit, Internal security review and Bug Bounty in Product Security"
+  description: "Một sản phẩm lớn liên quan tới thanh toán điện tử đòi hỏi tuân thủ nghiêm ngặt các điều lệ về an toàn thông tin theo các tiêu chuẩn PCIDSS, ISO27001, SOX .. Tuy nhiên đó chỉ là điều kiện cần, việc liên tục rà soát đánh giá nhằm hạn chế tối đa các lỗ hổng là hết sức quan trọng để kịp thời chặn đứng các rủi ro về bảo mật, cuối cùng duy trì một chương trình trao thưởng cho các nhà nghiên cứu bên ngoài tạo ra góc nhìn đa chiều về những rủi ro tiềm tàng trong hệ thống củng cố thêm một lớp phòng thủ là rất cần thiết nhằm hoàn chỉnh bức tranh tổng quát về an ninh sản phẩm. Trong bài nói này, anh Toàn sẽ chia sẻ về các thuận lợi cũng như hạn chế của từng quá trình và việc kết hợp như thế nào để liên tục nâng cao mức độ an toàn của sản phẩm."
+  subtype: presentation
+  speakers: [96]
+  language: "VI"
+  complexity: "Trung bình"
+-
+  id: 904
+  title: "AWS Risk Minimization Methodologies"
+  description: "Các hackers dạo gần đây liên tục nhắm vào các mục tiêu nằm trên Cloud nói chung và AWS nói riêng. Có vẻ người dùng AWS bị ăn hành nhiều nhất vì việc sử dụng public S3, lộ IAM creds,.... Bài talk này sẽ dig deeper vào thói quen sử dụng aws và những cách hạn chế rủi ro khi sẻ dụng AWS Services"
+  subtype: presentation
+  speakers: [96]
+  language: "VI"
+  complexity: "Trung bình"
+-
+  id: 905
+  title: "Make the Internet safer and Faster with Post-Quantum Cryptography"
+  description: "1. The threat of quantum-computing.\
+2> The need for post-quantum cryptography.\
+3> Why PQC will appear in IoT. \
+4> The world need better, and faster Public Cryptography rather than ECC and RSA.\
+5> A look into the future. "  
+  subtype: presentation\
+  speakers: [96]
+  language: "VI"
+  complexity: "Trung bình"
+-
+  id: 906
+  title: "Practical Electrical Glitching Attacks"
+  description: "Là bài phân tích và thực hiện tấn công vào phần cứng sử dụng kỹ thuật glitching VCC trên board ESP32 kịch recover key từ các bản ghi thu thập được thông qua glitching IC. Kỹ thuật sử dụng nguồn cung cấp kéo VCC xuống GND trong khoảng thời gian nanos làm cho IC hoạt động sai dẫn tới các kịch bản của người tấn công. Ứng dụng kỹ thuật Glitching VCC vào:
++ Bypass cơ chế bảo vệ debug hardware như JTAG, SWD\
++ Bypass cơ chế bootsecure.\
++ Bypass cơ chế bảo vệ One Time Programmable memory (eFuse) extract key"
+  subtype: presentation
+  speakers: [96]
+  language: "VI"
+  complexity: "Trung bình"
+-
+  id: 901
+  title: "Advanced Panda Threat"
+  description: "Giữa năm 2018, tôi bắt đầu làm việc cho một công ty an ninh mạng của Viettel. Sau đó vài tháng tôi có đi thực hiện tác vụ rà soát và xử lý mã độc (chỗ tôi làm gọi là cleanup(), đúng theo nghĩa đen của nó) cho một cơ quan chính phủ, có khá nhiều mẫu mã độc chúng tôi thu được trên hệ thống của họ tại thời điểm đó. Một số dấu hiệu ban đầu cho thấy đây là một tấn công APT (Advanced Persistent Threat). Đến khoảng thời gian khoảng đầu năm nay (2019), tôi quyết định dành một số thời gian để phân tích các mẫu này và xa hơn là đánh giá về nhóm hacker đứng đằng sau tấn công. Bài nói sẽ trình bày nhanh một số thông tin mà tôi đã thu được về nhóm này trong quá trình phân tích. Ngoài ra tôi cũng sẽ chia sẻ một số vấn đề mà tôi gặp phải trong việc xử lý case APT, với tư cách là một newbie - đây là lần đầu tiên tôi tiếp cận và có một cái nhìn rõ hơn về tấn công APT thay vì việc đọc các bài báo/báo cáo đã được publish của nước ngoài hay nghe người khác nói về nó, hi vọng có thể cùng trao đổi với các chuyên gia có mặt tại hội thảo. Dự định ban đầu của tôi là hoàn thiện bản báo cáo (với nhiều thông tin kỹ thuật chi tiết hơn, dưới dạng whitepaper) trước thời điểm diễn ra Trà Đá Hacking #8, tuy nhiên vì một số lý do mà không thể hoàn thành kịp tiến độ. Hi vọng rằng nó có thể được hoàn thành và công bố trong thời gian sớm"
+  subtype: presentation
+  speakers: [96]
+  language: "VI"
+  complexity: "Trung bình"
+-
+  id: 901
+  title: "Advanced Panda Threat"
+  description: "Giữa năm 2018, tôi bắt đầu làm việc cho một công ty an ninh mạng của Viettel. Sau đó vài tháng tôi có đi thực hiện tác vụ rà soát và xử lý mã độc (chỗ tôi làm gọi là cleanup(), đúng theo nghĩa đen của nó) cho một cơ quan chính phủ, có khá nhiều mẫu mã độc chúng tôi thu được trên hệ thống của họ tại thời điểm đó. Một số dấu hiệu ban đầu cho thấy đây là một tấn công APT (Advanced Persistent Threat). Đến khoảng thời gian khoảng đầu năm nay (2019), tôi quyết định dành một số thời gian để phân tích các mẫu này và xa hơn là đánh giá về nhóm hacker đứng đằng sau tấn công. Bài nói sẽ trình bày nhanh một số thông tin mà tôi đã thu được về nhóm này trong quá trình phân tích. Ngoài ra tôi cũng sẽ chia sẻ một số vấn đề mà tôi gặp phải trong việc xử lý case APT, với tư cách là một newbie - đây là lần đầu tiên tôi tiếp cận và có một cái nhìn rõ hơn về tấn công APT thay vì việc đọc các bài báo/báo cáo đã được publish của nước ngoài hay nghe người khác nói về nó, hi vọng có thể cùng trao đổi với các chuyên gia có mặt tại hội thảo. Dự định ban đầu của tôi là hoàn thiện bản báo cáo (với nhiều thông tin kỹ thuật chi tiết hơn, dưới dạng whitepaper) trước thời điểm diễn ra Trà Đá Hacking #8, tuy nhiên vì một số lý do mà không thể hoàn thành kịp tiến độ. Hi vọng rằng nó có thể được hoàn thành và công bố trong thời gian sớm"
+  subtype: presentation
+  speakers: [96]
+  language: "VI"
+  complexity: "Trung bình"
+-
+  id: 901
+  title: "Advanced Panda Threat"
+  description: "Giữa năm 2018, tôi bắt đầu làm việc cho một công ty an ninh mạng của Viettel. Sau đó vài tháng tôi có đi thực hiện tác vụ rà soát và xử lý mã độc (chỗ tôi làm gọi là cleanup(), đúng theo nghĩa đen của nó) cho một cơ quan chính phủ, có khá nhiều mẫu mã độc chúng tôi thu được trên hệ thống của họ tại thời điểm đó. Một số dấu hiệu ban đầu cho thấy đây là một tấn công APT (Advanced Persistent Threat). Đến khoảng thời gian khoảng đầu năm nay (2019), tôi quyết định dành một số thời gian để phân tích các mẫu này và xa hơn là đánh giá về nhóm hacker đứng đằng sau tấn công. Bài nói sẽ trình bày nhanh một số thông tin mà tôi đã thu được về nhóm này trong quá trình phân tích. Ngoài ra tôi cũng sẽ chia sẻ một số vấn đề mà tôi gặp phải trong việc xử lý case APT, với tư cách là một newbie - đây là lần đầu tiên tôi tiếp cận và có một cái nhìn rõ hơn về tấn công APT thay vì việc đọc các bài báo/báo cáo đã được publish của nước ngoài hay nghe người khác nói về nó, hi vọng có thể cùng trao đổi với các chuyên gia có mặt tại hội thảo. Dự định ban đầu của tôi là hoàn thiện bản báo cáo (với nhiều thông tin kỹ thuật chi tiết hơn, dưới dạng whitepaper) trước thời điểm diễn ra Trà Đá Hacking #8, tuy nhiên vì một số lý do mà không thể hoàn thành kịp tiến độ. Hi vọng rằng nó có thể được hoàn thành và công bố trong thời gian sớm"
+  subtype: presentation
+  speakers: [96]
+  language: "VI"
+  complexity: "Trung bình"
+-
+  id: 901
+  title: "Advanced Panda Threat"
+  description: "Giữa năm 2018, tôi bắt đầu làm việc cho một công ty an ninh mạng của Viettel. Sau đó vài tháng tôi có đi thực hiện tác vụ rà soát và xử lý mã độc (chỗ tôi làm gọi là cleanup(), đúng theo nghĩa đen của nó) cho một cơ quan chính phủ, có khá nhiều mẫu mã độc chúng tôi thu được trên hệ thống của họ tại thời điểm đó. Một số dấu hiệu ban đầu cho thấy đây là một tấn công APT (Advanced Persistent Threat). Đến khoảng thời gian khoảng đầu năm nay (2019), tôi quyết định dành một số thời gian để phân tích các mẫu này và xa hơn là đánh giá về nhóm hacker đứng đằng sau tấn công. Bài nói sẽ trình bày nhanh một số thông tin mà tôi đã thu được về nhóm này trong quá trình phân tích. Ngoài ra tôi cũng sẽ chia sẻ một số vấn đề mà tôi gặp phải trong việc xử lý case APT, với tư cách là một newbie - đây là lần đầu tiên tôi tiếp cận và có một cái nhìn rõ hơn về tấn công APT thay vì việc đọc các bài báo/báo cáo đã được publish của nước ngoài hay nghe người khác nói về nó, hi vọng có thể cùng trao đổi với các chuyên gia có mặt tại hội thảo. Dự định ban đầu của tôi là hoàn thiện bản báo cáo (với nhiều thông tin kỹ thuật chi tiết hơn, dưới dạng whitepaper) trước thời điểm diễn ra Trà Đá Hacking #8, tuy nhiên vì một số lý do mà không thể hoàn thành kịp tiến độ. Hi vọng rằng nó có thể được hoàn thành và công bố trong thời gian sớm"
+  subtype: presentation
+  speakers: [96]
+  language: "VI"
+  complexity: "Trung bình"
 
