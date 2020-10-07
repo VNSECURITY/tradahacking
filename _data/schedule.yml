@@ -1,17 +1,17 @@
 - 
-  date: "2019-09-06"
-  dateReadable: "06 Tháng 09"
+  date: "2020-10-11"
+  dateReadable: "11 Tháng 10"
   tracks: 
-    - {title: "Trà Đá Hacking #8", color: "#90be4e"}
+    - {title: "Virtual Trà Đá Hacking #9", color: "#90be4e"}
   timeslots:
-    - {
-        startTime: "08:30",
-        endTime: "09:00",
-        sessionIds: [000]
-    }
     - {
         startTime: "09:00",
         endTime: "09:30",
+        sessionIds: [000]
+    }
+    - {
+        startTime: "09:30",
+        endTime: "09:50",
         sessionIds: [808]
     }
     - {
@@ -25,78 +25,37 @@
         sessionIds: [807]
     }
     - {
-        startTime: "10:40",
-        endTime: "10:55",
+        startTime: "10:50",
+        endTime: "11:30",
         sessionIds: [666]
     }
     - {
-        startTime: "10:55",
-        endTime: "11:20",
+        startTime: "10:30",
+        endTime: "12:00",
         sessionIds: [814]
     }
     - {
-        startTime: "11:20",
-        endTime: "12:00",
+        startTime: "13:00",
+        endTime: "13:40",
         sessionIds: [801]
     }
     - {
-        startTime: "12:00",
-        endTime: "13:00",
+        startTime: "13:50",
+        endTime: "14:30",
         sessionIds: [002]
     }
     - {
-        startTime: "13:00",
-        endTime: "13:30",
+        startTime: "14:40",
+        endTime: "15:15",
         sessionIds: [810]
     }
     - {
-        startTime: "13:30",
-        endTime: "14:00",
+        startTime: "15:30",
+        endTime: "16:10",
         sessionIds: [805]
     }
     - {
-        startTime: "14:00",
-        endTime: "14:30",
+        startTime: "16:10",
+        endTime: "17:00",
         sessionIds: [806]
     }
-    - {
-        startTime: "14:30",
-        endTime: "15:00",
-        sessionIds: [804]
-    }
-    - {
-        startTime: "15:00",
-        endTime: "15:15",
-        sessionIds: [666]
-    }
-    - {
-        startTime: "15:15",
-        endTime: "16:00",
-        sessionIds: [809]
-    }
-    - {
-        startTime: "16:00",
-        endTime: "16:30",
-        sessionIds: [811]
-    }
-    - {
-        startTime: "16:30",
-        endTime: "17:00",
-        sessionIds: [812]
-    }
-    - {
-        startTime: "17:00",
-        endTime: "17:45",
-        sessionIds: [803]
-    }
-    - {
-        startTime: "17:45",
-        endTime: "18:00",
-        sessionIds: [813]
-    }    
-    - {
-        startTime: "18:30",
-        endTime: "23:59",
-        sessionIds: [1000]
-    }
-   
