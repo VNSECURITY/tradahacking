@@ -360,6 +360,14 @@ This presentation will be concluded with some live demo."
   language: "VI"
   complexity: "Trung bình"
 -
+  id: 900
+  title: "Khai mạc #Virtual TràĐáHacking"
+  description: "Điểm tin chiến sự"
+  subtype: presentation
+  speakers: [96]
+  language: "VI"
+  complexity: "Trung bình"
+-
   id: 901
   title: "A Note on Wordpress Plugin Security"
   description: "Chia sẻ ngắn về hiện trạng tấn công nhằm vào wordpress plugin, những vấn đề bảo mật còn tồn tại, một vài thử nghiệm tìm bug trong top 1000 plugins."
