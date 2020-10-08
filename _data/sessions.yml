@@ -364,7 +364,7 @@ This presentation will be concluded with some live demo."
   title: "A Note on Wordpress Plugin Security"
   description: "Chia sẻ ngắn về hiện trạng tấn công nhằm vào wordpress plugin, những vấn đề bảo mật còn tồn tại, một vài thử nghiệm tìm bug trong top 1000 plugins."
   subtype: presentation
-  speakers: [1]
+  speakers: [105]
   language: "VI"
   complexity: "Trung bình"
 -
@@ -372,7 +372,7 @@ This presentation will be concluded with some live demo."
   title: "How to start a CVE farm with GadgetInspector"
   description: "Giới thiệu về công cụ GadgetInspector (tác giả công cụ: Ian Haken) trong việc hỗ trợ tìm kiếm các lỗ hổng Java Deserialization. Phân tích nhược điểm của công cụ và cách khắc phục, tối ưu. Demo CVE đã tìm thấy bởi công cụ và chia sẽ một số idea tìm kiếm lỗ hổng Java Deserialization dựa theo kinh nghiệm của bản thân speaker."
   subtype: presentation
-  speakers: [96]
+  speakers: [102]
   language: "VI"
   complexity: "Trung bình"
 -
@@ -388,7 +388,7 @@ This presentation will be concluded with some live demo."
   title: "AWS Risk Minimization Methodologies"
   description: "Các hackers dạo gần đây liên tục nhắm vào các mục tiêu nằm trên Cloud nói chung và AWS nói riêng. Có vẻ người dùng AWS bị ăn hành nhiều nhất vì việc sử dụng public S3, lộ IAM creds,.... Bài talk này sẽ dig deeper vào thói quen sử dụng aws và những cách hạn chế rủi ro khi sẻ dụng AWS Services"
   subtype: presentation
-  speakers: [96]
+  speakers: [106]
   language: "VI"
   complexity: "Trung bình"
 -
@@ -400,7 +400,7 @@ This presentation will be concluded with some live demo."
 4> The world need better, and faster Public Cryptography rather than ECC and RSA.\
 5> A look into the future. "  
   subtype: presentation\
-  speakers: [96]
+  speakers: [103]
   language: "VI"
   complexity: "Trung bình"
 -
@@ -411,7 +411,7 @@ This presentation will be concluded with some live demo."
 + Bypass cơ chế bootsecure.\
 + Bypass cơ chế bảo vệ One Time Programmable memory (eFuse) extract key"
   subtype: presentation
-  speakers: [96]
+  speakers: [104]
   language: "VI"
   complexity: "Trung bình"
 -
