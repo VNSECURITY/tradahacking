@@ -439,7 +439,7 @@ This presentation will be concluded with some live demo."
   title: "Sử dụng LLVM Clang để phân tích source code"
   description: "Gần đây do yêu cầu công việc/học tập, mình có học, sử dụng Clang và phát hiện một số tool, công cụ hay ho để phân tích tĩnh mã nguồn của thư viện họ C/C++ (source code static analysis): ccc-analyzer, scan-build,... hay tự viết 1 checker. Việc phân tích những đặc trưng của mã nguồn có thể giúp ích nhiều trong việc tìm những hàm mục tiêu có chứa lỗi. Bài chia sẻ ngắn với hi vọng mang lại thông tin hữu ích cho cộng đồng."
   subtype: presentation
-  speakers: [96]
+  speakers: [101]
   language: "VI"
   complexity: "Trung bình"
 -
