@@ -386,7 +386,7 @@ This presentation will be concluded with some live demo."
 -
   id: 904
   title: "AWS Risk Minimization Methodologies"
-  description: "Các hackers dạo gần đây liên tục nhắm vào các mục tiêu nằm trên Cloud nói chung và AWS nói riêng. Có vẻ người dùng AWS bị ăn hành nhiều nhất vì việc sử dụng public S3, lộ IAM creds,.... Bài talk này sẽ dig deeper vào thói quen sử dụng aws và những cách hạn chế rủi ro khi sẻ dụng AWS Services"
+  description: "Các hackers dạo gần đây liên tục nhắm vào các mục tiêu nằm trên Cloud nói chung và AWS nói riêng. Có vẻ người dùng AWS bị ăn hành nhiều nhất vì việc sử dụng public S3, lộ IAM creds,.... Bài talk này sẽ dig deeper vào thói quen sử dụng aws và những cách hạn chế rủi ro khi sử dụng AWS Services"
   subtype: presentation
   speakers: [106]
   language: "VI"
