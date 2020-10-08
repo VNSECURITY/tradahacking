@@ -380,7 +380,7 @@ This presentation will be concluded with some live demo."
   title: "The Role of  Compliance audit, Internal security review and Bug Bounty in Product Security"
   description: "Một sản phẩm lớn liên quan tới thanh toán điện tử đòi hỏi tuân thủ nghiêm ngặt các điều lệ về an toàn thông tin theo các tiêu chuẩn PCIDSS, ISO27001, SOX .. Tuy nhiên đó chỉ là điều kiện cần, việc liên tục rà soát đánh giá nhằm hạn chế tối đa các lỗ hổng là hết sức quan trọng để kịp thời chặn đứng các rủi ro về bảo mật, cuối cùng duy trì một chương trình trao thưởng cho các nhà nghiên cứu bên ngoài tạo ra góc nhìn đa chiều về những rủi ro tiềm tàng trong hệ thống củng cố thêm một lớp phòng thủ là rất cần thiết nhằm hoàn chỉnh bức tranh tổng quát về an ninh sản phẩm. Trong bài nói này, anh Toàn sẽ chia sẻ về các thuận lợi cũng như hạn chế của từng quá trình và việc kết hợp như thế nào để liên tục nâng cao mức độ an toàn của sản phẩm."
   subtype: presentation
-  speakers: [96]
+  speakers: [16]
   language: "VI"
   complexity: "Trung bình"
 -
@@ -419,7 +419,7 @@ This presentation will be concluded with some live demo."
   title: "Chơi game quá gà thì làm gì?"
   description: "Bài trình bay ngắn gọn, xuôi tai, xúc tích về quá trình học hack game đế chế 2 DE của một người chơi game quá gà."
   subtype: presentation
-  speakers: [96]
+  speakers: [25]
   language: "VI"
   complexity: "Trung bình"
 -
@@ -431,7 +431,7 @@ This presentation will be concluded with some live demo."
   Designed & implemented as a cross-platform-architecture engine, Demigod can emulate Windows, MacOS & Linux on X86/Arm/Aarch64/Mips. On top of our framework, we built some advanced tools to analyze kernel rootkits, including some automated solutions, providing the malware analyst new weapons to ease their labor work.\
   Demigod is based on Qiling.io emulator. "
   subtype: presentation
-  speakers: [96]
+  speakers: [91,5,3]
   language: "VI"
   complexity: "Trung bình"
 -
@@ -447,7 +447,7 @@ This presentation will be concluded with some live demo."
   title: "Keynote & Kết Thúc Chương Trình"
   description: ""
   subtype: presentation
-  speakers: [1]
+  speakers: [1,77]
   language: "VI"
   complexity: "Trung bình"
 -
@@ -455,7 +455,7 @@ This presentation will be concluded with some live demo."
   title: "Keynote & Kết Thúc Chương Trình"
   description: ""
   subtype: presentation
-  speakers: [1]
+  speakers: [1,77]
   language: "VI"
   complexity: "Trung bình"
 -
@@ -463,7 +463,7 @@ This presentation will be concluded with some live demo."
   title: "Khai mạc #Virtual TràĐáHacking"
   description: ""
   subtype: presentation
-  speakers: [1]
+  speakers: [1,77]
   language: "VI"
   complexity: "Trung bình"
 
