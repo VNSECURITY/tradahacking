@@ -626,4 +626,77 @@ Là diễn giả của nhiều hội thảo như Tetcon, Tradahacking, Botconf..
   rockstar: false
   active: true
   social:
-    - {name: "site", link: ""}            
+    - {name: "site", link: ""}   
+-
+  id: 101
+  name: "Trần Chí Thiện"
+  surname: ""
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: nopic.png
+  rockstar: false
+  active: true
+  social:
+    - {name: "site", link: ""}  
+-
+  id: 102
+  name: "Quynh Le"
+  surname: ""
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: nopic.png
+  rockstar: false
+  active: true
+  social:
+    - {name: "site", link: ""} 
+-
+  id: 103
+  name: "Đức Nguyễn"
+  surname: ""
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: nopic.png
+  rockstar: false
+  active: true
+  social:
+    - {name: "site", link: ""} 
+-
+  id: 104
+  name: "Hà Văn Toàn"
+  surname: ""
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: nopic.png
+  rockstar: false
+  active: true
+  social:
+    - {name: "site", link: ""} 
+-
+  id: 105
+  name: "Nguyễn Anh Tiến"
+  surname: ""
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: nopic.png
+  rockstar: false
+  active: true
+  social:
+    - {name: "site", link: ""}  
+-
+  id: 106
+  name: "Chi Tran"
+  surname: ""
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: nopic.png
+  rockstar: false
+  active: true
+  social:
+    - {name: "site", link: ""}  
+    
