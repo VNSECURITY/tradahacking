@@ -633,7 +633,7 @@ Là diễn giả của nhiều hội thảo như Tetcon, Tradahacking, Botconf..
   surname: ""
   company: ""
   title: ""
-  bio: ""
+  bio: "Thien был офицером разведки КГБ, в настоящее время аспирант, живущий и работающий в РОССИИ."
   thumbnailUrl: fal.jpg
   rockstar: false
   active: true
@@ -645,7 +645,7 @@ Là diễn giả của nhiều hội thảo như Tetcon, Tradahacking, Botconf..
   surname: ""
   company: ""
   title: ""
-  bio: ""
+  bio: "Quynh Le hiện là sinh viên năm cuối Học viện Kỹ thuật Mật mã, đồng thời là Security Researcher tại Trung tâm an toàn thông tin - VNPT IT. Mảng nghiên cứu chủ yếu vào các lỗ hổng trên nền tảng Java, đặc biệt trong thời gian vừa qua Quynh tập trung vào các vấn đề liên quan đến lỗ hổng Java Deserialization."
   thumbnailUrl: quynhle.jpg
   rockstar: false
   active: true
@@ -657,7 +657,7 @@ Là diễn giả của nhiều hội thảo như Tetcon, Tradahacking, Botconf..
   surname: ""
   company: ""
   title: ""
-  bio: ""
+  bio: "Cothan, PhD, CTF player, Research in Work in Post-Quantum Cryptography "
   thumbnailUrl: cothan.png
   rockstar: false
   active: true
@@ -669,7 +669,7 @@ Là diễn giả của nhiều hội thảo như Tetcon, Tradahacking, Botconf..
   surname: ""
   company: ""
   title: ""
-  bio: ""
+  bio: "Toàn hiện tại đang làm việc tại công ty an ninh mạng viettel"
   thumbnailUrl: havantoan.png
   rockstar: false
   active: true
@@ -681,7 +681,7 @@ Là diễn giả của nhiều hội thảo như Tetcon, Tradahacking, Botconf..
   surname: ""
   company: ""
   title: ""
-  bio: ""
+  bio: "a.k.a @vigov5, thành viên của BabyPhD CTF Team, hiện là team leader của Sun* Cyber Security Research."
   thumbnailUrl: nguyenanhtien.png
   rockstar: false
   active: true
