@@ -364,7 +364,7 @@ This presentation will be concluded with some live demo."
   title: "A Note on Wordpress Plugin Security"
   description: "Chia sẻ ngắn về hiện trạng tấn công nhằm vào wordpress plugin, những vấn đề bảo mật còn tồn tại, một vài thử nghiệm tìm bug trong top 1000 plugins."
   subtype: presentation
-  speakers: [96]
+  speakers: [1]
   language: "VI"
   complexity: "Trung bình"
 -
@@ -447,7 +447,7 @@ This presentation will be concluded with some live demo."
   title: "Keynote & Kết Thúc Chương Trình"
   description: ""
   subtype: presentation
-  speakers: [96]
+  speakers: [1]
   language: "VI"
   complexity: "Trung bình"
 -
@@ -455,7 +455,7 @@ This presentation will be concluded with some live demo."
   title: "Keynote & Kết Thúc Chương Trình"
   description: ""
   subtype: presentation
-  speakers: [96]
+  speakers: [1]
   language: "VI"
   complexity: "Trung bình"
 -
@@ -463,7 +463,7 @@ This presentation will be concluded with some live demo."
   title: "Khai mạc #Virtual TràĐáHacking"
   description: ""
   subtype: presentation
-  speakers: [96]
+  speakers: [1]
   language: "VI"
   complexity: "Trung bình"
 
