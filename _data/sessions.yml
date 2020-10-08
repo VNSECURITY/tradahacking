@@ -376,7 +376,7 @@ This presentation will be concluded with some live demo."
   language: "VI"
   complexity: "Trung bình"
 -
-  id: 904
+  id: 969
   title: "The Role of  Compliance audit, Internal security review and Bug Bounty in Product Security"
   description: "Một sản phẩm lớn liên quan tới thanh toán điện tử đòi hỏi tuân thủ nghiêm ngặt các điều lệ về an toàn thông tin theo các tiêu chuẩn PCIDSS, ISO27001, SOX .. Tuy nhiên đó chỉ là điều kiện cần, việc liên tục rà soát đánh giá nhằm hạn chế tối đa các lỗ hổng là hết sức quan trọng để kịp thời chặn đứng các rủi ro về bảo mật, cuối cùng duy trì một chương trình trao thưởng cho các nhà nghiên cứu bên ngoài tạo ra góc nhìn đa chiều về những rủi ro tiềm tàng trong hệ thống củng cố thêm một lớp phòng thủ là rất cần thiết nhằm hoàn chỉnh bức tranh tổng quát về an ninh sản phẩm. Trong bài nói này, anh Toàn sẽ chia sẻ về các thuận lợi cũng như hạn chế của từng quá trình và việc kết hợp như thế nào để liên tục nâng cao mức độ an toàn của sản phẩm."
   subtype: presentation
