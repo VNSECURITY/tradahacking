@@ -360,14 +360,6 @@ This presentation will be concluded with some live demo."
   language: "VI"
   complexity: "Trung bình"
 -
-  id: 900
-  title: "Khai mạc #Virtual TràĐáHacking"
-  description: "Điểm tin chiến sự"
-  subtype: presentation
-  speakers: [96]
-  language: "VI"
-  complexity: "Trung bình"
--
   id: 901
   title: "A Note on Wordpress Plugin Security"
   description: "Chia sẻ ngắn về hiện trạng tấn công nhằm vào wordpress plugin, những vấn đề bảo mật còn tồn tại, một vài thử nghiệm tìm bug trong top 1000 plugins."
@@ -392,7 +384,7 @@ This presentation will be concluded with some live demo."
   language: "VI"
   complexity: "Trung bình"
 -
-  id: 905
+  id: 904
   title: "AWS Risk Minimization Methodologies"
   description: "Các hackers dạo gần đây liên tục nhắm vào các mục tiêu nằm trên Cloud nói chung và AWS nói riêng. Có vẻ người dùng AWS bị ăn hành nhiều nhất vì việc sử dụng public S3, lộ IAM creds,.... Bài talk này sẽ dig deeper vào thói quen sử dụng aws và những cách hạn chế rủi ro khi sẻ dụng AWS Services"
   subtype: presentation
@@ -400,7 +392,7 @@ This presentation will be concluded with some live demo."
   language: "VI"
   complexity: "Trung bình"
 -
-  id: 906
+  id: 905
   title: "Make the Internet safer and Faster with Post-Quantum Cryptography"
   description: "1. The threat of quantum-computing.\
 2> The need for post-quantum cryptography.\
@@ -412,7 +404,7 @@ This presentation will be concluded with some live demo."
   language: "VI"
   complexity: "Trung bình"
 -
-  id: 907
+  id: 906
   title: "Practical Electrical Glitching Attacks"
   description: "Là bài phân tích và thực hiện tấn công vào phần cứng sử dụng kỹ thuật glitching VCC trên board ESP32 kịch recover key từ các bản ghi thu thập được thông qua glitching IC. Kỹ thuật sử dụng nguồn cung cấp kéo VCC xuống GND trong khoảng thời gian nanos làm cho IC hoạt động sai dẫn tới các kịch bản của người tấn công. Ứng dụng kỹ thuật Glitching VCC vào:
 + Bypass cơ chế bảo vệ debug hardware như JTAG, SWD\
@@ -423,9 +415,21 @@ This presentation will be concluded with some live demo."
   language: "VI"
   complexity: "Trung bình"
 -
-  id: 908
+  id: 987
   title: "Chơi game quá gà thì làm gì?"
   description: "Bài trình bay ngắn gọn, xuôi tai, xúc tích về quá trình học hack game đế chế 2 DE của một người chơi game quá gà."
+  subtype: presentation
+  speakers: [96]
+  language: "VI"
+  complexity: "Trung bình"
+-
+  id: 908
+  title: "Demigod: Emulating Kernel Rootkits"
+  description: "Kernel rootkit is considered the most dangerous malware that may infect computers. Operating at ring 0, the highest privilege level in the system, this super malware has unrestricted power to control the whole machine, thus can defeat all the defensive & monitoring mechanisms. Unfortunately, dynamic analysis solutions for kernel rootkits are severely lacking; indeed, most existing dynamic tools are just built for userspace code (ring 3), but not for Operating System (OS) level. This limitation forces security researchers to turn to static analysis, which however proved to be very tricky & time consuming.\
+  This research proposes a novel approach to deal with kernel rootkits. We introduce Demigod, a framework to emulate OS environments, so kernel rootkits can be run in software emulators, all in ring 3. From this sandbox, we can safely monitor, trace, debug or perform all kinds of dynamic analysis with this advanced malware.\
+  Emulating complicated OS such as Windows, MacOS & Linux is a challenging task. We will present all the technical issues we had to deal with, including how we built our own loader and dynamic linker, how to emulate the OS environment, essential kernel components and system APIs to allow rootkits to work.\
+  Designed & implemented as a cross-platform-architecture engine, Demigod can emulate Windows, MacOS & Linux on X86/Arm/Aarch64/Mips. On top of our framework, we built some advanced tools to analyze kernel rootkits, including some automated solutions, providing the malware analyst new weapons to ease their labor work.\
+  Demigod is based on Qiling.io emulator. "
   subtype: presentation
   speakers: [96]
   language: "VI"
@@ -440,12 +444,8 @@ This presentation will be concluded with some live demo."
   complexity: "Trung bình"
 -
   id: 910
-  title: "Demigod: Emulating Kernel Rootkits"
-  description: "Kernel rootkit is considered the most dangerous malware that may infect computers. Operating at ring 0, the highest privilege level in the system, this super malware has unrestricted power to control the whole machine, thus can defeat all the defensive & monitoring mechanisms. Unfortunately, dynamic analysis solutions for kernel rootkits are severely lacking; indeed, most existing dynamic tools are just built for userspace code (ring 3), but not for Operating System (OS) level. This limitation forces security researchers to turn to static analysis, which however proved to be very tricky & time consuming.\
-  This research proposes a novel approach to deal with kernel rootkits. We introduce Demigod, a framework to emulate OS environments, so kernel rootkits can be run in software emulators, all in ring 3. From this sandbox, we can safely monitor, trace, debug or perform all kinds of dynamic analysis with this advanced malware.\
-  Emulating complicated OS such as Windows, MacOS & Linux is a challenging task. We will present all the technical issues we had to deal with, including how we built our own loader and dynamic linker, how to emulate the OS environment, essential kernel components and system APIs to allow rootkits to work.\
-  Designed & implemented as a cross-platform-architecture engine, Demigod can emulate Windows, MacOS & Linux on X86/Arm/Aarch64/Mips. On top of our framework, we built some advanced tools to analyze kernel rootkits, including some automated solutions, providing the malware analyst new weapons to ease their labor work.\
-  Demigod is based on Qiling.io emulator. "
+  title: "Keynote & Kết Thúc Chương Trình"
+  description: ""
   subtype: presentation
   speakers: [96]
   language: "VI"
@@ -466,11 +466,4 @@ This presentation will be concluded with some live demo."
   speakers: [96]
   language: "VI"
   complexity: "Trung bình"
--
-  id: 913
-  title: "Keynote & Kết Thúc Chương Trình"
-  description: ""
-  subtype: presentation
-  speakers: [96]
-  language: "VI"
-  complexity: "Trung bình"
+
